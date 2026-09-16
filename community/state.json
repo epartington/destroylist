@@ -5,12 +5,12 @@
     "consecutive_failures": 0
   },
   "MetaMask": {
-    "hash": "a68ebb053fbe1e0616efb1aa53d8cc7834a67dbefe3117c0b969a4f30a9a2679",
-    "count": 97798,
+    "hash": "906d7b092e0eb6d7ee266609a4b79d33eef94cea318de2bbf90adad869c7baeb",
+    "count": 97976,
     "consecutive_failures": 0
   },
-  "Codeesura": {
-    "hash": "77fd07f4fd519c4474630daa61948b84ef47e7b0adee8760138076f4150012b5",
+  "Polkadot": {
+    "hash": "e6dab0ecf95948282d710ead422876cf27a5b4bb46e3e2656ee20eb8cfe4c739",
     "count": 53990,
     "consecutive_failures": 0
   },
@@ -19,19 +19,14 @@
     "count": 1444,
     "consecutive_failures": 0
   },
-  "Polkadot": {
-    "hash": "e6dab0ecf95948282d710ead422876cf27a5b4bb46e3e2656ee20eb8cfe4c739",
+  "Codeesura": {
+    "hash": "77fd07f4fd519c4474630daa61948b84ef47e7b0adee8760138076f4150012b5",
     "count": 53990,
     "consecutive_failures": 0
   },
   "DiscordPhishing_Nikolai": {
     "hash": "70924f3426700d55cbe180c86a91390ee515bccbd5614fb724192e2e260ad301",
     "count": 21852,
-    "consecutive_failures": 0
-  },
-  "Phishunt": {
-    "hash": "5a1a789a627485808e3b6f21c82a24abde4f8a9b6ad942be37f8c692c46a8d6f",
-    "count": 859,
     "consecutive_failures": 0
   },
   "CryptoFirewall": {
@@ -44,9 +39,14 @@
     "count": 37078,
     "consecutive_failures": 0
   },
+  "Phishunt": {
+    "hash": "d74d83ef2a748b46b07e3feed8af365f2e94984651d1f8ca1ff9b6df80ba5a94",
+    "count": 874,
+    "consecutive_failures": 0
+  },
   "SEAL": {
-    "hash": "cdb6b9d2c4d89dd567957d83ca7082c25a2728e03ea41fca47d88ed0ddc6d1b3",
-    "count": 97245,
+    "hash": "aa6e20541843073d373e900d266bb6f39a1493cf46c5a855421d02ad64781ce9",
+    "count": 97410,
     "consecutive_failures": 0
   },
   "Enkrypt_Blacklist": {
@@ -59,5 +59,5 @@
     "count": 354175,
     "consecutive_failures": 0
   },
-  "total_count": 1087011
+  "total_count": 1087225
 }
