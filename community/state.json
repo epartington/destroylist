@@ -1,12 +1,17 @@
 {
   "OpenPhish": {
-    "hash": "5d1f7cc54f16def9cddbfd973c790c377efbb4054dfa99c57cb9de75a959cd7a",
-    "count": 268,
+    "hash": "de21e8723ba1e4c89e4311878153ca390602a11ae4f47c6dfd96b7b906e06f81",
+    "count": 280,
     "consecutive_failures": 0
   },
   "MetaMask": {
-    "hash": "fbe82f5aa29bc5ed4f49744a0fa1a32cd0cc2122f84910c17fb2ede23b656c49",
-    "count": 97803,
+    "hash": "a68ebb053fbe1e0616efb1aa53d8cc7834a67dbefe3117c0b969a4f30a9a2679",
+    "count": 97798,
+    "consecutive_failures": 0
+  },
+  "Codeesura": {
+    "hash": "77fd07f4fd519c4474630daa61948b84ef47e7b0adee8760138076f4150012b5",
+    "count": 53990,
     "consecutive_failures": 0
   },
   "SPMedia_DetectedURLs": {
@@ -19,24 +24,19 @@
     "count": 53990,
     "consecutive_failures": 0
   },
-  "Codeesura": {
-    "hash": "77fd07f4fd519c4474630daa61948b84ef47e7b0adee8760138076f4150012b5",
-    "count": 53990,
-    "consecutive_failures": 0
-  },
   "DiscordPhishing_Nikolai": {
     "hash": "70924f3426700d55cbe180c86a91390ee515bccbd5614fb724192e2e260ad301",
     "count": 21852,
     "consecutive_failures": 0
   },
   "Phishunt": {
-    "hash": "34698810429273490bd5c163045b9c30d43493df74709f77eb5ff1ed2eb4c76b",
-    "count": 916,
+    "hash": "5a1a789a627485808e3b6f21c82a24abde4f8a9b6ad942be37f8c692c46a8d6f",
+    "count": 859,
     "consecutive_failures": 0
   },
-  "SEAL": {
-    "hash": "e7ffa1754ed9ebc5f0d82d50f137024da8b0ff271925eeab52e5b009ccc2391e",
-    "count": 97242,
+  "CryptoFirewall": {
+    "hash": "cfd9a5fe1e5fb6a7a0267c666dd72d33cd6a1a3f508f9ac1748e8b7e4f6679c3",
+    "count": 107527,
     "consecutive_failures": 0
   },
   "DiscordPhishing_Dogino": {
@@ -44,9 +44,9 @@
     "count": 37078,
     "consecutive_failures": 0
   },
-  "CryptoFirewall": {
-    "hash": "cfd9a5fe1e5fb6a7a0267c666dd72d33cd6a1a3f508f9ac1748e8b7e4f6679c3",
-    "count": 107527,
+  "SEAL": {
+    "hash": "cdb6b9d2c4d89dd567957d83ca7082c25a2728e03ea41fca47d88ed0ddc6d1b3",
+    "count": 97245,
     "consecutive_failures": 0
   },
   "Enkrypt_Blacklist": {
@@ -59,5 +59,5 @@
     "count": 354175,
     "consecutive_failures": 0
   },
-  "total_count": 1086660
+  "total_count": 1087011
 }
