@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 142993,
+      "total_entries": 143004,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 74554,
+          "count": 74558,
           "hosts": [
             "00-e8k.pages.dev",
             "00000000000000000000000.pages.dev",
@@ -5966,6 +5966,7 @@
             "backendrecovery.pages.dev",
             "backing-supportiveaid-m9q2qt.pages.dev",
             "backpack-61w.pages.dev",
+            "backpack-9g2.pages.dev",
             "backpack-admin-dist.pages.dev",
             "backpack-ambassadors.pages.dev",
             "backpack-ao3.pages.dev",
@@ -39528,6 +39529,7 @@
             "m-smartappresolver.pages.dev",
             "m-smartchainresolver.pages.dev",
             "m-smartdappfix.pages.dev",
+            "m-smartrectify.pages.dev",
             "m-smartresolver.pages.dev",
             "m-solaxyairdrop.pages.dev",
             "m-sonic-labs.pages.dev",
@@ -56442,7 +56444,9 @@
             "site-ledgr-live-us.pages.dev",
             "site-ledgrlive-eng.pages.dev",
             "site-maple-ledger-5bd5.pages.dev",
+            "site-onyx-edge-3a36.pages.dev",
             "site-phantom-wallet.pages.dev",
+            "site-solar-harbor-337f.pages.dev",
             "site-sso--coinbase-cdn.pages.dev",
             "site-uphold-auth-com.pages.dev",
             "site-uphold-com-auth.pages.dev",
@@ -74570,7 +74574,7 @@
         },
         {
           "domain": "vercel.app",
-          "count": 19886,
+          "count": 19888,
           "hosts": [
             "0-73-fr-66.vercel.app",
             "0-autht-lo-xfin-ity-w0965.vercel.app",
@@ -80582,6 +80586,7 @@
             "it-kakao.vercel.app",
             "it-security-rho.vercel.app",
             "itather.vercel.app",
+            "itau-com.vercel.app",
             "itau-landing.vercel.app",
             "itau-mtl1cy76b-gamero-galons-projects.vercel.app",
             "itau-py-sel.vercel.app",
@@ -89681,6 +89686,7 @@
             "stinkcoin.vercel.app",
             "stone-earning.vercel.app",
             "stoneheads-staking.vercel.app",
+            "stonk-fun-zcat.vercel.app",
             "stonk-fun.vercel.app",
             "storknft.vercel.app",
             "story-docs.vercel.app",
@@ -94462,7 +94468,7 @@
         },
         {
           "domain": "workers.dev",
-          "count": 10596,
+          "count": 10600,
           "hosts": [
             "0010-8y95-a36x.11alia-tiffincrane-com-s-account.workers.dev",
             "009yb7hu.workers.dev",
@@ -95608,6 +95614,7 @@
             "awcrulpr.workers.dev",
             "awdvfzij.workers.dev",
             "awebhgzr.workers.dev",
+            "awee-broken-set.benoitdionee.workers.dev",
             "awfnxpln.workers.dev",
             "awgwbouw.workers.dev",
             "awjmoxby.workers.dev",
@@ -96520,6 +96527,7 @@
             "crnlijcb.workers.dev",
             "crnliktm.workers.dev",
             "crocdvux.workers.dev",
+            "crpcm-oekd.janiyah441.workers.dev",
             "crpudlkv.workers.dev",
             "crqmzdfn.workers.dev",
             "crvestbg67sdfsdijiug.jazel5.workers.dev",
@@ -100835,6 +100843,7 @@
             "oxgufbgp.workers.dev",
             "oxjaazcq.workers.dev",
             "oxjwxcnp.workers.dev",
+            "oxkf43u56f.kamalani-44.workers.dev",
             "oxmetzkc.workers.dev",
             "oxmoojwp.workers.dev",
             "oxmvo4jl.workers.dev",
@@ -101650,6 +101659,7 @@
             "rby-df87e.kenyancopper34.workers.dev",
             "rby-dfdfht.renesmee00.workers.dev",
             "rby-dferf.nitza.workers.dev",
+            "rby-dr54d.imogen10.workers.dev",
             "rby-dsfdsf.vincent-a05.workers.dev",
             "rby-ejkrkf.daequan11.workers.dev",
             "rby-ekdfks.daequan11.workers.dev",
@@ -105064,7 +105074,7 @@
         },
         {
           "domain": "netlify.app",
-          "count": 10558,
+          "count": 10559,
           "hosts": [
             "0.netlify.app",
             "0g-foundiation-claim.netlify.app",
@@ -107881,6 +107891,7 @@
             "driodexploration.netlify.app",
             "drip-erc.netlify.app",
             "drippinskulls.netlify.app",
+            "drop-access.netlify.app",
             "drop-jup.netlify.app",
             "drop-jupiter-claim.netlify.app",
             "drop-jupiter.netlify.app",
