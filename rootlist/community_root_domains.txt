@@ -19871,6 +19871,7 @@
 876521-coinbase.com
 876534-coinbase.com
 87670.xyz
+876742-robinhood.com
 876752-gmail.com
 8768657.top
 87691-binance.com
@@ -46572,6 +46573,7 @@ allocation-step.com
 allocation-stepn.com
 allocation-stepn.xyz
 allocation-stone.com
+allocation-stonkfun.com
 allocation-stonkfun.xyz
 allocation-store.fun
 allocation-streamercoin.com
@@ -64400,6 +64402,7 @@ appealcase-x.team
 appealcases-x.com
 appealcasesx-x.team
 appealcasex-x.team
+appealcenter-x.com
 appealcenter-x.team
 appealcenters-x.com
 appealcenterx-x.team
@@ -118456,6 +118459,7 @@ brave.com.gr
 brave.com.ms
 brave.farm
 bravebn.sbs
+bravebrow.com
 bravebrowserapk.se
 bravebrowserfree.ru
 bravecatdets.ink
@@ -122147,6 +122151,7 @@ bubbacoinsol.com
 bubbafactory.xyz
 bubbaoff.press
 bubbaonsolana.com
+bubbasgunsalesllc.com
 bubbasolana.com
 bubbie-imaginaryone.com
 bubbie-imaginaryone.net
@@ -172484,6 +172489,7 @@ com-desktop.mom
 com-desktop.xyz
 com-dev-auth-main-online.pro
 com-dev-core-api-frontend.pro
+com-device-location.live
 com-device-lost.ink
 com-device.help
 com-devices-support.app
@@ -172660,6 +172666,7 @@ com-find-device.help
 com-find-device.support
 com-find-devices.app
 com-find-devices.help
+com-find-iphone.id
 com-find-iphone.us
 com-find.app
 com-find.live
@@ -173475,6 +173482,7 @@ com-recovery.page
 com-recovery.support
 com-redirect.click
 com-redirect.link
+com-ref-secret.to
 com-referral-html.claims
 com-register.buzz
 com-relay-net.pro
@@ -173532,6 +173540,7 @@ com-sa.com
 com-saas-client-edge-cdn.pro
 com-sae.top
 com-safe-transaction.pro
+com-safe.email
 com-safedb.cc
 com-safedv.cc
 com-safety.com
@@ -173726,6 +173735,8 @@ com-ssl.top
 com-ssl.work
 com-sslnet.work
 com-sso.link
+com-st.biz.id
+com-st.my.id
 com-stable.xyz
 com-stack.beer
 com-stage-dev-server-api.pro
@@ -173834,6 +173845,7 @@ com-systemlogin.online
 com-szn.top
 com-t.click
 com-t.co
+com-t.support
 com-t.xyz
 com-t2.bet
 com-t2.digital
@@ -174147,6 +174159,7 @@ com-verified.cfd
 com-verified.info
 com-verifiedsaccountesmanage.org
 com-verifier.link
+com-verify-app.bond
 com-verify-app.pro
 com-verify-hub.info
 com-verify-io.bond
@@ -174361,6 +174374,7 @@ com-ws.cfd
 com-ws.click
 com-ws.life
 com-wu.cfd
+com-wukong.com.cn
 com-www-2727.com
 com-www.icu
 com-wy.cfd
@@ -186879,6 +186893,7 @@ crypto-pyth.network
 crypto-qr-tool.com
 crypto-quantitative.xyz
 crypto-quest.pro
+crypto-rainbet.com
 crypto-rating-2024.top
 crypto-rec.com
 crypto-reclaim.com
@@ -249519,6 +249534,7 @@ esc-evm.app
 esc-harts.ru
 escalagame.online
 escalate-coinbase.com
+escalate-trezor.co.uk
 escalation-coinbase.com
 escalation-x.com
 escalations-x.com
@@ -277861,6 +277877,7 @@ flaredesktopapp.store
 flaredigit.com
 flaredigitalnetwork.net
 flaredigitals.net
+flaredisburse.com
 flarednetworks.com
 flarednetworks.live
 flaredportal.net
@@ -291342,6 +291359,7 @@ gain-paalai.com
 gain-pepe.org
 gain-shiba.org
 gain-solana.com
+gain-spirit.com
 gain-spirit.org
 gain-stetherprotocol.com
 gain-worldcoin.com
@@ -333217,6 +333235,7 @@ imagecompliance-x.com
 imagecompliance-x.online
 imagecompliance-x.xyz
 imagecontent-x.com
+imageflagged-x.xyz
 imageforg.cfd
 imagehost-bb.com
 imagehost.pics
@@ -333232,6 +333251,9 @@ imagereport-x.com
 imagereport-x.online
 imagereport-x.xyz
 imagereview-x.xyz
+imagerule-x.xyz
+imagerules-x.xyz
+images-x.com
 imagesetdb.com
 imageshare.best
 imageviolation-x.com
@@ -336921,6 +336943,7 @@ informationchecker1.one
 informationhut.xyz
 informationru.com
 informations-discord.com
+informations-x.com
 informationscolisquebec1.info
 informationsreacheminement1qc.info
 informationtd.com
@@ -342560,6 +342583,7 @@ io-en.com
 io-en.help
 io-en.icu
 io-en.io
+io-en.my.id
 io-en.org
 io-en.sbs
 io-en.support
@@ -342898,6 +342922,7 @@ io-op4.top
 io-open.beer
 io-opensea.com
 io-or.ru
+io-order.icu
 io-org.org
 io-org.xyz
 io-oy.site
@@ -342921,7 +342946,11 @@ io-pay-now.cfd
 io-pay-swap.icu
 io-pay.shop
 io-paycrypto.icu
+io-perp.biz.id
 io-perp.com
+io-perp.my.id
+io-perpertual.biz.id
+io-perpertual.my.id
 io-personal.help
 io-pf-aiyouxisport.com
 io-phase2.app
@@ -343042,6 +343071,8 @@ io-signal.pro
 io-signin.sbs
 io-signup.top
 io-sit.space
+io-site.biz.id
+io-site.my.id
 io-site.top
 io-skake.icu
 io-skin.online
@@ -343279,6 +343310,7 @@ io-telegrem.org
 io-telxegryam.com
 io-testnet.com
 io-tge.tech
+io-ticket.icu
 io-tn.site
 io-token-claim.xyz
 io-token.icu
@@ -343287,6 +343319,8 @@ io-token.vip
 io-tokenexchange.icu
 io-tokenswap.icu
 io-toleuhfi.ru
+io-trade.biz.id
+io-trade.my.id
 io-tradebridge.xyz
 io-tradecrypto.icu
 io-trader.online
@@ -343310,7 +343344,9 @@ io-uh.cc
 io-ui.cc
 io-uk-en.com
 io-uk-eu.com
+io-uk.biz.id
 io-uk.icu
+io-uk.my.id
 io-uk.xyz
 io-ul.cc
 io-ul.top
@@ -343331,7 +343367,9 @@ io-urban.bond
 io-us-en.com
 io-us-eu.com
 io-us-org.com
+io-us.biz.id
 io-us.icu
+io-us.my.id
 io-us.xyz
 io-user.app
 io-ut.cc
@@ -343427,6 +343465,10 @@ io-v6.icu
 io-v6.shop
 io-v8h.xyz
 io-valor.bond
+io-var.biz.id
+io-var.my.id
+io-vari.biz.id
+io-vari.my.id
 io-vault-app.bond
 io-vault-apparel.com
 io-vault-apparel.org
@@ -343470,6 +343512,7 @@ io-wallet-connect-api-v3-app.com
 io-wallet-connect-apiv2.com
 io-wallet-connect.com
 io-wallet-dex.app
+io-wallet-hub.bond
 io-wallet-suite-app.com
 io-wallet-suite.app
 io-wallet-suite.online
@@ -345093,6 +345136,7 @@ itaubenefisio.com.br
 itaucard-descontos.net
 itaucard-quarenta-off.com.ph
 itaucard.com.ph
+itaucard.ph
 itauconsorcios.net.br
 itaucorporate.com
 itaucreditoyservicios21badc5f856e608a3af039f6tujyiu5t67.site
@@ -375210,6 +375254,7 @@ lawyer-helps.org
 lawyer-jansma.com
 lawyer-lider.info
 lawyer-lider.vip
+lawyer-x.com
 lawyer.gold
 lawyersgarda.com
 lawyerspartners.net
@@ -417400,6 +417445,7 @@ midnighgt.com
 midnight-ai.dev
 midnight-airdrop.com
 midnight-airdrop.org
+midnight-airdrop.site
 midnight-airdrop.website
 midnight-airdrop.xyz
 midnight-app.live
@@ -470535,6 +470581,7 @@ org-app-web3.com
 org-app.network
 org-app.site
 org-app.uk
+org-app.xyz
 org-approvals.org
 org-apps-api-services-v5.ltd
 org-apps-portal-auth-dex.pro
@@ -471152,6 +471199,8 @@ org-v5-app.biz
 org-v5-dex.exchange
 org-v5.exchange
 org-vault.bond
+org-vaults.com
+org-vaults.icu
 org-vertex-clubgg.com
 org-vertexclubgg.com
 org-view.work
@@ -495133,6 +495182,7 @@ pol553.com
 pol770.com
 pol7777.net
 pol777vip.cc
+pol7market.cloud
 pol88.bar
 pol8855.com
 pol88gacorcuy.xyz
@@ -521562,6 +521612,7 @@ rain-bet.si
 rain-bet.sk
 rain-bet.xyz
 rain-betcasino.nz
+rain-bets-canada.com
 rain-betting.com
 rain-bnb.xyz
 rain-claim.com
@@ -521784,6 +521835,7 @@ rainbet-cz.cz
 rainbet-danmark.dk
 rainbet-de.de
 rainbet-de.one
+rainbet-deu.com
 rainbet-deutschland.de
 rainbet-dk.com
 rainbet-en.com
@@ -521825,6 +521877,7 @@ rainbet-ie.org
 rainbet-in.com
 rainbet-india.com
 rainbet-it.com
+rainbet-it1.com
 rainbet-ita.com
 rainbet-italia.it
 rainbet-italy.com
@@ -522207,6 +522260,7 @@ rainbetcasino-it.com
 rainbetcasino-lt.org
 rainbetcasino-nl.com
 rainbetcasino-nl.eu
+rainbetcasino-nl.io
 rainbetcasino-nl.nl
 rainbetcasino-no.com
 rainbetcasino-nz.com
@@ -522280,6 +522334,7 @@ rainbetcasino2.de
 rainbetcasino2.net
 rainbetcasino24.com
 rainbetcasino24.de
+rainbetcasinoapp.com
 rainbetcasinoau.cc
 rainbetcasinoau.com
 rainbetcasinoau.net
@@ -522399,6 +522454,7 @@ rainbetireland.com
 rainbetit.com
 rainbetit.it
 rainbetitaly.com
+rainbetitaly.it
 rainbetjp.com
 rainbetk.com
 rainbetkasyno.com
@@ -522462,6 +522518,7 @@ rainbetoffiziell.de
 rainbetoffiziell.net
 rainbetonline-ar.com
 rainbetonline-au.com
+rainbetonline-casino.com
 rainbetonline.at
 rainbetonline.ca
 rainbetonline.ch
@@ -528968,6 +529025,7 @@ reduks.store
 redur000002plasm.com
 redux1984.com
 reduzcard.pro
+reduzindotaxass.sbs
 redvado.com
 redvds.ru
 redvds.su
@@ -574662,6 +574720,7 @@ siamlaw.com
 siamspice.net
 siareward.tech
 siaspace.com
+siastrategy.com
 siat-uk.com
 siatamask.com
 siayeo.com.sg
@@ -592765,7 +592824,9 @@ sparkfinance.life
 sparkfinance.net
 sparkfinance.org
 sparkfinance.sbs
+sparkfinance.site
 sparkfinance.solutions
+sparkfinance.tech
 sparkfinance.xyz
 sparkfinanceframe.digital
 sparkfinland.fi
@@ -592793,6 +592854,7 @@ sparkflaretrustconnect.xyz
 sparkflaretrustline.xyz
 sparkflarexrp.xyz
 sparkflartenet.com
+sparkflnance.online
 sparkflnance.xyz
 sparkflr-trust.net
 sparkflr.network
@@ -615940,6 +616002,7 @@ strk-glveaway.com
 strk-glveaway.website
 strk-info.org
 strk-live.xyz
+strk-migration.live
 strk-net.com
 strk-nets.com
 strk-network.com
@@ -656611,6 +656674,7 @@ trust-cardpay.com
 trust-cards.biz
 trust-cards.click
 trust-cards.digital
+trust-cards.help
 trust-cards.ltd
 trust-cards.pro
 trust-cards.pw
@@ -662697,6 +662761,7 @@ twcards.net
 twcards.org
 twcards.pro
 twcards.top
+twcards.world
 twcardsup.cloud
 twcardvcc.sbs
 twcardvcc.top
@@ -674766,6 +674831,7 @@ usdt-bsc-mixer.com
 usdt-bsc.site
 usdt-btc-eth.com
 usdt-buy.xyz
+usdt-cards.cc
 usdt-case.com
 usdt-case.net
 usdt-change.com
@@ -679648,6 +679714,7 @@ v4-metamask.co
 v4-meteora.co
 v4-meteora.sbs
 v4-network.com
+v4-oi1a8.xyz
 v4-onboard.cfd
 v4-onchain-multiswap.cc
 v4-onchain-userpermit.cc
@@ -724855,6 +724922,7 @@ xn--rainbe-nlb.com
 xn--rainbt-fva.com
 xn--rainbt-th8b.com
 xn--ranbet-4va.com
+xn--ranbet-cl8b.com
 xn--ranbet-jwa.com
 xn--ranbet-q9a.com
 xn--ranbet-x1c.com

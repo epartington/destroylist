@@ -6,7 +6,7 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 143057,
+      "total_entries": 143058,
       "items": [
         {
           "domain": "pages.dev",
@@ -74582,7 +74582,7 @@
         },
         {
           "domain": "vercel.app",
-          "count": 19916,
+          "count": 19917,
           "hosts": [
             "0-73-fr-66.vercel.app",
             "0-autht-lo-xfin-ity-w0965.vercel.app",
@@ -89707,6 +89707,7 @@
             "storknft.vercel.app",
             "story-docs.vercel.app",
             "story-faucet-v2.vercel.app",
+            "story-staking-dashboard.vercel.app",
             "straknet.vercel.app",
             "strato-verifying.vercel.app",
             "stratovm-airdrop.vercel.app",
@@ -143417,7 +143418,7 @@
     },
     "site_builders": {
       "total_domains": 39,
-      "total_entries": 67780,
+      "total_entries": 67786,
       "items": [
         {
           "domain": "gitbook.io",
@@ -204034,7 +204035,7 @@
         },
         {
           "domain": "framer.ai",
-          "count": 1238,
+          "count": 1239,
           "hosts": [
             "0000066.framer.ai",
             "access--karken--shoot.framer.ai",
@@ -205192,6 +205193,7 @@
             "trzrr-enbridg.framer.ai",
             "trzrstart.framer.ai",
             "trzzor-io-start.framer.ai",
+            "turtswalletweb.framer.ai",
             "tzerio-en.framer.ai",
             "upheld-desk.framer.ai",
             "uphold-ai-cdn.framer.ai",
@@ -210034,7 +210036,7 @@
         },
         {
           "domain": "framer.website",
-          "count": 210,
+          "count": 214,
           "hosts": [
             "aaavvveeronsss.framer.website",
             "acccess-rabbywalllet.framer.website",
@@ -210051,6 +210053,7 @@
             "coinbase-web.framer.website",
             "coinbasenewwebsiteframer.framer.website",
             "coinbaseprologen.framer.website",
+            "coinbse-extension.framer.website",
             "coinbse-extesnsion.framer.website",
             "coinhld-helpp.framer.website",
             "com-meta-web.framer.website",
@@ -210107,6 +210110,7 @@
             "metamask-login.framer.website",
             "metamask-wb-home.framer.website",
             "metamask-web.framer.website",
+            "metamaskcdn-io.framer.website",
             "metamaskcdn-us.framer.website",
             "metamsk-eng-us.framer.website",
             "microsoftss.framer.website",
@@ -210119,6 +210123,8 @@
             "mytelstraupdatings.framer.website",
             "myteslstrasupports.framer.website",
             "myxfinitymailorg.framer.website",
+            "nav-coinbase.framer.website",
+            "nav-truustcdn.framer.website",
             "netzero7876888.framer.website",
             "netzeromail1.framer.website",
             "new-pro-coinbse.framer.website",
@@ -211062,13 +211068,14 @@
         },
         {
           "domain": "framer.wiki",
-          "count": 26,
+          "count": 27,
           "hosts": [
             "a-cc-0unt-lnfo-vali-datl0nservlce.framer.wiki",
             "access-coinbasehelp.framer.wiki",
             "advise-startladgger-com.framer.wiki",
             "aserfartsgsrtgsrtg.framer.wiki",
             "asergrsthdtyhtyj.framer.wiki",
+            "cloud-trust-walet.framer.wiki",
             "connect-comcast.framer.wiki",
             "connectxverificationproappsuit.framer.wiki",
             "cust0merservlce247lnfo.framer.wiki",
