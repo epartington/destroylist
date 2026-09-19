@@ -6,7 +6,7 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 143417,
+      "total_entries": 143422,
       "items": [
         {
           "domain": "pages.dev",
@@ -94634,7 +94634,7 @@
         },
         {
           "domain": "workers.dev",
-          "count": 10653,
+          "count": 10655,
           "hosts": [
             "0010-8y95-a36x.11alia-tiffincrane-com-s-account.workers.dev",
             "009yb7hu.workers.dev",
@@ -97473,7 +97473,9 @@
             "eu.etherffi-interest.workers.dev",
             "eu.etherfi-inetrest.workers.dev",
             "eu.etherfi-inteerst.workers.dev",
+            "eu.etherfi-intereest.workers.dev",
             "eu.etherfi-interrest.workers.dev",
+            "eu.etherfi-interset.workers.dev",
             "eu.etherfi-intreest.workers.dev",
             "eu.etherfi-niterest.workers.dev",
             "eu.etherfii-interest.workers.dev",
@@ -105293,7 +105295,7 @@
         },
         {
           "domain": "netlify.app",
-          "count": 10604,
+          "count": 10607,
           "hosts": [
             "0.netlify.app",
             "0g-foundiation-claim.netlify.app",
@@ -107307,6 +107309,7 @@
             "community-engine-presearch-pretoken.netlify.app",
             "community-presearch-engine.netlify.app",
             "communitycoinscore-ux.netlify.app",
+            "communitycollectivevotingselection.netlify.app",
             "communityfeedbackvote-ux.netlify.app",
             "communityopentokenvote-rb.netlify.app",
             "communityrankingspace-rb.netlify.app",
@@ -107449,6 +107452,7 @@
             "crypto-bfy.netlify.app",
             "crypto-bm6.netlify.app",
             "crypto-bmd.netlify.app",
+            "crypto-bup.netlify.app",
             "crypto-bxh.netlify.app",
             "crypto-bz7.netlify.app",
             "crypto-car.netlify.app",
@@ -107492,6 +107496,7 @@
             "crypto-kxn.netlify.app",
             "crypto-lii.netlify.app",
             "crypto-lj6.netlify.app",
+            "crypto-mgt.netlify.app",
             "crypto-mhx.netlify.app",
             "crypto-mll.netlify.app",
             "crypto-mmq.netlify.app",
@@ -143777,11 +143782,11 @@
     },
     "site_builders": {
       "total_domains": 39,
-      "total_entries": 68403,
+      "total_entries": 68407,
       "items": [
         {
           "domain": "gitbook.io",
-          "count": 21983,
+          "count": 21984,
           "hosts": [
             "0pensea.gitbook.io",
             "0xkowloon.gitbook.io",
@@ -161898,6 +161903,7 @@
             "mttsekdskwalliet.gitbook.io",
             "mtuaseluiign.gitbook.io",
             "mtumk-s-help-usa.gitbook.io",
+            "mtxamsklogn.gitbook.io",
             "mtxchroextesion.gitbook.io",
             "muaitamskwallt.gitbook.io",
             "mueetamsklogin.gitbook.io",
@@ -165770,7 +165776,7 @@
         },
         {
           "domain": "webflow.io",
-          "count": 20568,
+          "count": 20569,
           "hosts": [
             "1-inch-coin-project.webflow.io",
             "1inch---io.webflow.io",
@@ -174772,6 +174778,7 @@
             "meetamaskxloginh.webflow.io",
             "meetamasskelogin.webflow.io",
             "meetamasskliddlogab.webflow.io",
+            "meetamassklogaiin.webflow.io",
             "meetamassklogin.webflow.io",
             "meetamawlogin.webflow.io",
             "meetamckklogons.webflow.io",
@@ -186344,7 +186351,7 @@
         },
         {
           "domain": "wixstudio.com",
-          "count": 8969,
+          "count": 8971,
           "hosts": [
             "a-atomic.wixstudio.com",
             "a-t-o-m-i-c.wixstudio.com",
@@ -188504,6 +188511,7 @@
             "en-liveledgre.wixstudio.com",
             "en-liveledgro.wixstudio.com",
             "en-mask-extsions.wixstudio.com",
+            "en-matemask-io.wixstudio.com",
             "en-mcxeapp.wixstudio.com",
             "en-meta-exntions.wixstudio.com",
             "en-metamask-io.wixstudio.com",
@@ -194991,6 +194999,7 @@
             "view-livledgre.wixstudio.com",
             "view-metamask-apps.wixstudio.com",
             "view-metamsk-cdn.wixstudio.com",
+            "view-metmask-extcdn.wixstudio.com",
             "view-metmask.wixstudio.com",
             "view-metmaskextnsion.wixstudio.com",
             "view-metmaskscdn.wixstudio.com",

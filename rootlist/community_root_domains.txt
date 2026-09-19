@@ -275,6 +275,7 @@
 0123019h8h.lat
 0123656.com
 012398h574h5j.skin
+012398h8.forum
 012601.com
 012678.xyz
 01281coinbase.com
@@ -17886,6 +17887,7 @@
 764190-crypto.com
 7642-coinbase.com
 764201-coinbase.com
+76424.top
 764326coinbase.com
 764398coinbase.com
 764657-coinbase.com
@@ -87379,6 +87381,7 @@ bankofamerica-inc.ph
 bankofamerica-intelligence.ph
 bankofamerica-limitation.ph
 bankofamerica-locations.ph
+bankofamerica-login-verify-id23.ph
 bankofamerica-login.at
 bankofamerica-no.ph
 bankofamerica-notify.ph
@@ -132948,6 +132951,7 @@ case-battle.website
 case-battles.com
 case-battlesfun.com
 case-bettle.com
+case-binance.us
 case-bittrex.com
 case-buttle.com
 case-client.com
@@ -242544,6 +242548,7 @@ eligibility-uniswap.org
 eligibility-usdai.com
 eligibility-usduc.com
 eligibility-usduc.org
+eligibility-usepaid.app
 eligibility-venus.com
 eligibility-vertical.co
 eligibility-vertusfoundation.com
@@ -267138,6 +267143,7 @@ fanpuy.com
 fanqie-tv.vip
 fanqiev2.com
 fans-whatapp.hl.cn
+fans-whatsapp.com
 fansedge.co
 fansex.shop
 fanshili.com
@@ -292607,6 +292613,7 @@ galacticats.club
 galacticbetsbe.com
 galacticbridge.app
 galacticconquest.info
+galacticfederation.co
 galacticgeckeos.com
 galacticgeckios.com
 galacticgeckoos.com
@@ -297705,6 +297712,8 @@ get-eclipse.xyz
 get-eigen.xyz
 get-eigenlayer.xyz
 get-eignlayer.com
+get-embercruve.lat
+get-embercurve.fun
 get-ena.com
 get-ens.com
 get-ens.net
@@ -306573,6 +306582,7 @@ google-flights.club
 google-forms.click
 google-fy.top
 google-gle.com.cn
+google-havan.com
 google-hegjob.xyz
 google-hold.com
 google-ji.com.cn
@@ -325699,6 +325709,7 @@ hub-stable.vip
 hub-start.com
 hub-steth.org
 hub-stether.com
+hub-stonkfun.xyz
 hub-streamflows.live
 hub-succinct.xyz
 hub-sun.xyz
@@ -446000,6 +446011,7 @@ netnetcapital-eligibility.com
 netnetcapital-governance.xyz
 netnetcapital-holder.xyz
 netnetcapital-reward.xyz
+netnetcapital-rewards.xyz
 netnetcapital-token.com
 netnetcapital-token.xyz
 netnetcapital-tokens.com
@@ -459833,6 +459845,7 @@ oferta25anos.cfd
 oferta27387238283874237.sbs
 oferta274930.cfd
 oferta274vw9b5x2l0.rest
+oferta324452.cfd
 oferta328016.click
 oferta389212.click
 oferta39473xve73s8.rest
@@ -459848,6 +459861,7 @@ oferta839174.click
 oferta8589512511.click
 oferta91821928912.cfd
 oferta95837.cfd
+ofertaa848295327520.cfd
 ofertaa9455241593275.cfd
 ofertachevro.com
 ofertaflashparati.com
@@ -501314,6 +501328,8 @@ portal-hubs.cfd
 portal-hubs.lat
 portal-hubs.lol
 portal-hubs.sbs
+portal-hylo.app
+portal-hylo.lat
 portal-icenetwork.xyz
 portal-idos.network
 portal-iex.xyz
@@ -502176,6 +502192,8 @@ portals-superform.xyz
 portals-token.net
 portals-tokens.org
 portals-tonstakers.xyz
+portals-usepaid.app
+portals-usepaid.lat
 portals-wormhole.xyz
 portals-x.click
 portals-zksync.info
@@ -622528,6 +622546,7 @@ supportledgers.com
 supportledgerwallet.com
 supportline-coinbase.com
 supportlist.digital
+supportlisting.forum
 supportlisting.org
 supportlive.online
 supportly.au
@@ -672975,6 +672994,7 @@ update-status-id22.com
 update-status7.com
 update-streamf.live
 update-sub263june1846.com
+update-subscription-netflix.com
 update-suite-online.com
 update-teams.live
 update-tmo.com
@@ -710088,6 +710108,7 @@ whatsapp-zone-hub.com.cn
 whatsapp-zs.com
 whatsapp.net.im
 whatsapp.sc.cn
+whatsapp8.cyou
 whatsappa.hk
 whatsappapk.org
 whatsappbusineses.com
