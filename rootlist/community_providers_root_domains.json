@@ -6,7 +6,7 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 143458,
+      "total_entries": 143460,
       "items": [
         {
           "domain": "pages.dev",
@@ -105316,7 +105316,7 @@
         },
         {
           "domain": "netlify.app",
-          "count": 10609,
+          "count": 10610,
           "hosts": [
             "0.netlify.app",
             "0g-foundiation-claim.netlify.app",
@@ -107709,6 +107709,7 @@
             "dappaccesswallets.netlify.app",
             "dappathescro.netlify.app",
             "dappconect.netlify.app",
+            "dappconneet.netlify.app",
             "dappcoonect.netlify.app",
             "dapper-entremet-6349c1.netlify.app",
             "dapper-frangollo-d122f2.netlify.app",
@@ -115931,7 +115932,7 @@
         },
         {
           "domain": "github.io",
-          "count": 8013,
+          "count": 8014,
           "hosts": [
             "00award.github.io",
             "01felipeaugusto-star.github.io",
@@ -123716,6 +123717,7 @@
             "wwv-sandbox-game.github.io",
             "www-app.github.io",
             "www-curve-finance.github.io",
+            "www-debamk.github.io",
             "www-debenk.github.io",
             "www-debridge.github.io",
             "www-everstake.github.io",
@@ -143818,7 +143820,7 @@
     },
     "site_builders": {
       "total_domains": 39,
-      "total_entries": 68419,
+      "total_entries": 68422,
       "items": [
         {
           "domain": "gitbook.io",
@@ -205009,7 +205011,7 @@
         },
         {
           "domain": "framer.ai",
-          "count": 1249,
+          "count": 1250,
           "hosts": [
             "0000066.framer.ai",
             "access--karken--shoot.framer.ai",
@@ -205815,6 +205817,7 @@
             "nav--coinmart.framer.ai",
             "nav--sso--coinbasepro--cdn.framer.ai",
             "nav-exdus-welcome.framer.ai",
+            "nav-rabbyapps.framer.ai",
             "nav-upohld-eng.framer.ai",
             "ndxx-app.framer.ai",
             "neetcoins.framer.ai",
@@ -211050,7 +211053,7 @@
         },
         {
           "domain": "framer.website",
-          "count": 231,
+          "count": 233,
           "hosts": [
             "aaavvveeronsss.framer.website",
             "acccess-rabbywalllet.framer.website",
@@ -211058,6 +211061,7 @@
             "apps-lace-extension.framer.website",
             "apps-metamsk-get.framer.website",
             "apps-rabby.framer.website",
+            "appsweb-rabby.framer.website",
             "astar-network-eng-ios.framer.website",
             "attyahoomail.framer.website",
             "auchomage.framer.website",
@@ -211270,6 +211274,7 @@
             "web-metamask-home.framer.website",
             "web-procoinbase-home.framer.website",
             "webapps-laceextension.framer.website",
+            "webapps-rabyus-ext.framer.website",
             "webcoibase-net.framer.website",
             "webmail-earthlink-net-newmessage.framer.website",
             "webmail-spectrumlogin-login-zimbram.framer.website",
