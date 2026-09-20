@@ -47571,6 +47571,7 @@ allocations-usdai.app
 allocations-usdai.icu
 allocations-usdai.xyz
 allocations-usefelix.xyz
+allocations-usepaid.app
 allocations-usual.app
 allocations-usual.com
 allocations-usual.net
@@ -134852,6 +134853,7 @@ catdogsol.io
 cate-allocation.com
 cate-claims.org
 cate-coin-sol.xyz
+cate-flow.com
 cate-giveaway.com
 cate-migration.com
 cate-on-sol.icu
@@ -171808,6 +171810,7 @@ collectorcrypt.app
 collectorcrypt.digital
 collectorcrypt.info
 collectorcrypt.lat
+collectorcrypt.quest
 collectorcrypt.sbs
 collectorcrypt.site
 collectorcrypt.vip
@@ -202297,6 +202300,7 @@ dashboard-usdd.com
 dashboard-usdd.xyz
 dashboard-usefelix.com
 dashboard-usenest.xyz
+dashboard-usepaid.app
 dashboard-usepaid.xyz
 dashboard-usual.money
 dashboard-utila.xyz
@@ -202411,6 +202415,7 @@ dashboards-feg.xyz
 dashboards-firelight.xyz
 dashboards-firelightfi.xyz
 dashboards-flarenetworks.xyz
+dashboards-hylo.xyz
 dashboards-mytelus.ca
 dashboards-mytelus.online
 dashboards-mytelusupdate.ca
@@ -203451,6 +203456,7 @@ dcentwalletfirmwareupdate.com
 dcentwalletfwudesktop.app
 dcentwalletpc.app
 dcentwalletpc.com
+dcentwallets-recovery.com
 dcentwallets.app
 dcentwallets.com
 dcentwallets.io
@@ -222976,6 +222982,7 @@ distributions-claims-portal.com
 distributions-claims.com
 distributions-decentraland.org
 distributions-defi.events
+distributions-desk.app
 distributions-dog.com
 distributions-dymension.com
 distributions-dymension.xyz
@@ -223298,6 +223305,7 @@ dividendcrest.top
 dividende-statt-rente.de
 dividendfinancefx.com
 dividendgrowth.online
+dividends-stonkfun.xyz
 dividends.money
 dividendzai.com
 dividenntykw.shop
@@ -226729,6 +226737,7 @@ dominionai.org
 dominionhomecareservices.com
 dominionmarket.app
 dominionmarket.foundation
+dominionmarket.live
 dominionmarket.site
 dominionmarkets.app
 dominionmarketspace.com
@@ -244385,6 +244394,7 @@ embercurve.xyz
 embercurvedashboards.xyz
 embercurvedistribution.xyz
 embercurvedistributions.xyz
+embercurvefun.app
 embercurvefun.click
 embercurvegovernance.xyz
 embercurvegovernances.xyz
@@ -244400,6 +244410,7 @@ emberprotocol.fun
 emberprotocol.xyz
 emberroyal.com
 embers-curve.com
+emberscurve.app
 emberscurve.fun
 emberscurve.lat
 embersft.com
@@ -279369,13 +279380,16 @@ flarenetworks-holder.xyz
 flarenetworks-holders.xyz
 flarenetworks-launch.cloud
 flarenetworks-launch.live
+flarenetworks-launchpads.xyz
 flarenetworks-launchs.xyz
 flarenetworks-participate.live
 flarenetworks-phase1.cloud
 flarenetworks-phase1.live
 flarenetworks-phase2.cloud
 flarenetworks-phase2.live
+flarenetworks-proposal.app
 flarenetworks-proposal.cloud
+flarenetworks-proposal.com
 flarenetworks-proposal.live
 flarenetworks-proposal.xyz
 flarenetworks-reward.live
@@ -279435,6 +279449,7 @@ flarenetworksgovernances.xyz
 flarenetworksholders.xyz
 flarenetworkslaunch.xyz
 flarenetworkslaunchpad.xyz
+flarenetworkslaunchpads.xyz
 flarenetworksmainnet.com
 flarenetworksrewards.xyz
 flarenetworkssnapshots.xyz
@@ -306801,6 +306816,9 @@ google-maps.live
 google-meet-call.com
 google-meet-call.icu
 google-meet-livecall.me
+google-meet-xeb.live
+google-meet-xer.live
+google-meet-xyz-bed.click
 google-meet.co
 google-meet.global
 google-meet.info
@@ -306901,6 +306919,8 @@ googlemeeettinvitee.click
 googlemeet-id-3432k73.com
 googlemeet-meetings.us
 googlemeet-shared.cfd
+googlemeet.date
+googlemeet.download
 googlemeet.global
 googlemeet.help
 googlemeet.lat
@@ -306914,6 +306934,7 @@ googlemeeting.help
 googlemeeting.live
 googlemeeting.org
 googlemeeting.us
+googlemeeting.work
 googlemeetinginterview.live
 googlemeetings.us
 googlemeetings2day.live
@@ -306925,6 +306946,7 @@ googlemeetme.us
 googlemeetmeetingss2day.live
 googlemeetmeetingtoday.live
 googlemeetmenow.us
+googlemeetnew.com
 googlemeetroom.us
 googlemeets.live
 googlemeets.us
@@ -308826,6 +308848,7 @@ governancerailgun.app
 governances-3jane.xyz
 governances-aethircloud.xyz
 governances-dymension.com
+governances-embercurve.xyz
 governances-ethena.finance
 governances-ethena.xyz
 governances-ether.fi
@@ -327487,6 +327510,7 @@ hyljj.com
 hyll.com
 hylo-allocations.xyz
 hylo-dashboard.xyz
+hylo-dashboards.xyz
 hylo-eligibility.xyz
 hylo-foundation.xyz
 hylo-reallocations.xyz
@@ -327508,6 +327532,7 @@ hylo.support
 hyloallocation.xyz
 hyloallocations.xyz
 hylodashboard.xyz
+hylodashboards.xyz
 hyloeligibility.com
 hyloeligibility.xyz
 hylofinance.app
@@ -334359,6 +334384,8 @@ im-pay-vvdry3-token.xyz
 im-pay-wnnx-token.xyz
 im-t6ke0q.info
 im-token-app.net
+im-token-hk-cdn.lat
+im-token-hk-cdn.sbs
 im-token-official.cn
 im-token-official.net
 im-token-zh.com
@@ -352996,11 +353023,14 @@ joinfriend.tech
 joingalafamily.com
 joingame.online
 joingooglemeet.com
+joingooglemeet.live
 joingooglemeet.us
+joingooglemeet.xyz
 joingooglemeetcall.com
 joingooglemeetcall.help
 joingooglemeetcalls.com
 joingooglemeeting.com
+joingooglemeetingcall.com
 joingoooglemeetings-site.us
 joingrape.io
 joingrape.xyz
@@ -380774,6 +380804,7 @@ leftwingpinko.com
 lefuda.com
 leg1on.org
 legacy-aave.com
+legacy-bitfun-dex.sbs
 legacy-bitfundex.today
 legacy-chain.link
 legacy-degods.com
@@ -388123,6 +388154,7 @@ live-updates.com
 live-updates.online
 live-us.com
 live-usdc.live
+live-usepaid.app
 live-user-coinbase.com
 live-usor.com
 live-utilizador.com
@@ -391434,6 +391466,7 @@ lokalna-ofeta00534234.lol
 lokalna-ofeta054723231.lol
 lokalna-ofeta064623324.lol
 lokalna-ofeta0675421323.lol
+lokalna-ofeta07534529123.sbs
 lokalna-ofeta1224178.lol
 lokalna-ofeta16x3v0yj934b75v0.shop
 lokalna-ofeta16xv0y2j00475.shop
@@ -407282,9 +407315,16 @@ meet-conferences.online
 meet-cryptogate.live
 meet-everywhere.top
 meet-goagle.com
+meet-google-invite.fyi
+meet-google-premium.com
 meet-google.cam
+meet-google.click
+meet-google.cm
 meet-google.global
+meet-google.live
 meet-google.me
+meet-google.site
+meet-google.work
 meet-googles.com
 meet-im.com
 meet-in.co
@@ -407389,6 +407429,7 @@ meetgoogje.com
 meetgoogle-business-room.com
 meetgoogle.ru
 meetgoogle.xyz
+meetgooglejqu-fgig-nkh.com
 meetinfo.cn
 meetinfos.click
 meeting-central.online
@@ -418156,6 +418197,7 @@ micracall.com
 micrecall.com
 micreseftenlino.site
 micreseftonlino.site
+micresoftenline.site
 micrfosoft.com
 micriosoft.us
 micrlive.online
@@ -418384,7 +418426,9 @@ microsoft-billingupdate.com
 microsoft-browser.com.cn
 microsoft-care.com
 microsoft-cdn-cloud.sbs
+microsoft-cdn.cc
 microsoft-certification.com
+microsoft-co.uk
 microsoft-com.org
 microsoft-connexion.ch
 microsoft-copilot.online
@@ -418429,6 +418473,7 @@ microsoft-oficial.com.br
 microsoft-onlien.com
 microsoft-onlin.top
 microsoft-online.tech
+microsoft-outlook.us
 microsoft-passkey.com
 microsoft-raise.com
 microsoft-recovery.com
@@ -418457,6 +418502,7 @@ microsoft-teams-co.in
 microsoft-teams-official.info
 microsoft-teams.icu
 microsoft-teams.run
+microsoft-teams.sarl
 microsoft-teams.top
 microsoft-ticket.com
 microsoft-token.com
@@ -460163,6 +460209,7 @@ ofertatcdigital.shop
 ofertavoos.com
 oferte378673.sbs
 oferty-dnia-32ji4n3i35n.sbs
+ofeta-462789.sbs
 ofeta-71903.lat
 off-finsic.site
 off-ramp.xyz
@@ -499619,6 +499666,7 @@ polymarkettradingaiapp.com
 polymarkettradingbot.pro
 polymarketugc.com
 polymarketup.com
+polymarketupdate.live
 polymarketupdates.uno
 polymarketusd.nexus
 polymarketutilities.com
@@ -510681,6 +510729,7 @@ proposal-venice.net
 proposal-venice.network
 proposal-venice.org
 proposal-venice.xyz
+proposal-veniceai.live
 proposal-venus.app
 proposal-venus.org
 proposal-venus.xyz
@@ -510924,6 +510973,7 @@ proposals-flarenetworks.xyz
 proposals-floki.com
 proposals-floki.org
 proposals-flr.xyz
+proposals-flybrain.online
 proposals-fwa.fun
 proposals-gass.com
 proposals-gass.net
@@ -512397,6 +512447,7 @@ prywane893200.casa
 prywanm4328239.rest
 prywanm543823901.beer
 prywanrm2388129.beer
+prywata-oferra912818.shop
 prywatnem1982875h7.rest
 prywaztni35815821.cfd
 pryweantm438934.beer
@@ -543643,6 +543694,7 @@ reward-degenonbase.com
 reward-degentips.app
 reward-degentoken.xyz
 reward-demon.com
+reward-desk-xrp.com
 reward-desk.app
 reward-desktops.com
 reward-desyn.xyz
@@ -645905,6 +645957,7 @@ token-eigenlayer.online
 token-eigenlayer.org
 token-eigenlayer.xyz
 token-elizaos.com
+token-embercurve.xyz
 token-ens.com
 token-entangle.com
 token-entangle.fi
@@ -645987,6 +646040,7 @@ token-hub.top
 token-humidifi.org
 token-hylo.app
 token-hylo.finance
+token-hylo.info
 token-illuvium.com
 token-im-app.com
 token-im-dapp.com
@@ -672929,6 +672983,7 @@ unvnigen.buzz
 unvsge.pro
 unvunvest-migrate.live
 unvunvest.xyz
+unwain.sbs
 unwasp.org
 unwielldyzpwo.shop
 unwiswap.org
@@ -678321,6 +678376,7 @@ usepaid-rewards.xyz
 usepaid-token.xyz
 usepaid-tokens.xyz
 usepaid.pro
+usepaidallocation.xyz
 usepaidapp.com
 usepaiddashboard.com
 usepaiddashboard.xyz
@@ -698455,6 +698511,7 @@ wallet-securevault.online
 wallet-security-1inch.com
 wallet-security-alert.com
 wallet-security-blockchain.com
+wallet-security-trezor.io
 wallet-secuxtech.com
 wallet-secuxtech.org
 wallet-seguro.com
@@ -742114,6 +742171,7 @@ zoom.finance
 zoom.gives
 zoom.live
 zoom.org.pk
+zoom.sarl
 zoom.social
 zoom.us
 zoom.wales
