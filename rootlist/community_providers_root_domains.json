@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 143587,
+      "total_entries": 143589,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 74643,
+          "count": 74644,
           "hosts": [
             "00-e8k.pages.dev",
             "00000000000000000000000.pages.dev",
@@ -55855,6 +55855,7 @@
             "semuanya-punya-google.pages.dev",
             "senators-kraken-zusammenfassung.pages.dev",
             "senators-sieg-kraken.pages.dev",
+            "send-usdt-trustwallet.pages.dev",
             "senecaprotocol.pages.dev",
             "senin16.pages.dev",
             "senpi-ai.pages.dev",
@@ -94685,7 +94686,7 @@
         },
         {
           "domain": "workers.dev",
-          "count": 10672,
+          "count": 10673,
           "hosts": [
             "0010-8y95-a36x.11alia-tiffincrane-com-s-account.workers.dev",
             "009yb7hu.workers.dev",
@@ -96750,6 +96751,7 @@
             "crnlijcb.workers.dev",
             "crnliktm.workers.dev",
             "crocdvux.workers.dev",
+            "crpcm-ncdk.janiyah441.workers.dev",
             "crpcm-oekd.janiyah441.workers.dev",
             "crpudlkv.workers.dev",
             "crqmzdfn.workers.dev",
@@ -143947,7 +143949,7 @@
     },
     "site_builders": {
       "total_domains": 39,
-      "total_entries": 68429,
+      "total_entries": 68430,
       "items": [
         {
           "domain": "gitbook.io",
@@ -195502,7 +195504,7 @@
         },
         {
           "domain": "blogspot.com",
-          "count": 4087,
+          "count": 4088,
           "hosts": [
             "014oo.blogspot.com",
             "01xpga-agpx11.blogspot.com",
@@ -197940,6 +197942,7 @@
             "trustwalletcustomersupportnumber.blogspot.com",
             "trustwalletkyci.blogspot.com",
             "trustwalletlivee.blogspot.com",
+            "trustwalletlog.blogspot.com",
             "trustwalletlogin.blogspot.com",
             "trustwalletloginhelp.blogspot.com",
             "trustwalletofficiallink.blogspot.com",

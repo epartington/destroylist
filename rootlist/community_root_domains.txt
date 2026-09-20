@@ -64075,6 +64075,7 @@ app-zebec.cloud
 app-zebec.club
 app-zebec.com
 app-zebec.lat
+app-zebec.my
 app-zebec.network
 app-zebec.xyz
 app-zebecfinance.xyz
@@ -228254,10 +228255,16 @@ dpd-cod.top
 dpd-dynora.cc
 dpd-ie-bxn.link
 dpd-ie-edit.club
+dpd-ie-edit.com
 dpd-ie-edit.xin
 dpd-ie-f.top
 dpd-ie-pack.com
+dpd-ie.cc
+dpd-ie.club
+dpd-ie.com
 dpd-ie.link
+dpd-ie.shop
+dpd-ie.xin
 dpd-kalvora.click
 dpd-lpobj.cc
 dpd-nalnora.click
@@ -266300,6 +266307,7 @@ facebookgrant.live
 facebookmall.icu
 facebookmarketing.pro
 facebookmeta.cc
+facebooknotification-retricted.com
 facebooknotify-noreply.com
 facebookorgn.com
 facebookpage-noreplycenter.com
@@ -309248,6 +309256,7 @@ gpt-chat.info
 gpt-chat23.com
 gpt-claim.xyz
 gpt-coinbase.com
+gpt-coinbase.xyz
 gpt-coins.com
 gpt-crypto.net
 gpt-crypto.online
@@ -460161,6 +460170,7 @@ oferta-182322.icu
 oferta-2451784.cfd
 oferta-247157.cfd
 oferta-247841.cfd
+oferta-478221.sbs
 oferta-7654127.cfd
 oferta-7894213.shop
 oferta-84720192.icu
@@ -707896,6 +707906,7 @@ webmehk-whatsapp.com.cn
 webmerged.live
 webmesh.finance
 webmessage.org
+webmeta.info
 webmetablockview.com
 webmetamask-connect.com
 webmetamask.net
