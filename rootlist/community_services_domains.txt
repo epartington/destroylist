@@ -56489,6 +56489,7 @@ eng-kraken-log-cdn.square.site
 eng-kraken-login-us.pages.dev
 eng-kraken-login.pages.dev
 eng-kraken-sso.framer.ai
+eng-krakencdn.framer.media
 eng-krakenllogin.pages.dev
 eng-krakenlogin.netlify.app
 eng-krakiin.wixstudio.com
@@ -152266,6 +152267,7 @@ pub-ff2c89d21ea94dadac399b2d3cd15ad1.r2.dev
 pub-fffce947e47e45ed824f37ca8089197f.r2.dev
 pub-hub-phantomwallet.pages.dev
 pub-krakenlogin.pages.dev
+pub-trustwllet.framer.media
 pubf868e77df61146e2a31924f0f62189d5.r2.dev
 pubgyclaims.pages.dev
 publi-extensinapps.wixstudio.com
