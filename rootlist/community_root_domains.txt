@@ -74667,6 +74667,7 @@ asset-zircuit.com
 asset-zircuit.xyz
 asset-zkml.com
 assetacre.com
+assetarc.site
 assetassistrecovery.org
 assetauthenticate.net
 assetavenue.capital
@@ -190275,6 +190276,7 @@ cryptopunks.quest
 cryptopunks.sale
 cryptopunks.sg
 cryptopunks.to
+cryptopunks.website
 cryptopunksgiveaway.com
 cryptopunksland.app
 cryptopunksnfts.live
@@ -212530,6 +212532,7 @@ desk-flare.info
 desk-flarenetwork.info
 desk-flt.com
 desk-help-my-gov.com
+desk-jumper.com
 desk-keplr.com
 desk-live.com
 desk-mainnet.com
@@ -266996,6 +266999,7 @@ facebook-verified-center.com
 facebook-verify-fanpage.com
 facebook-vip.icu
 facebook-wallets.cc
+facebook.net.tw
 facebook6688.cn
 facebook889.com
 facebooka.xyz
@@ -339364,6 +339368,7 @@ infts.art
 inftweb.com
 infur.dev
 infura-api.com
+infura-de.io
 infura-io.com
 infura-web3.app
 infura.ai
@@ -344192,9 +344197,11 @@ invites-renzoprotocol.com
 invites-source2.com
 invites-trackers.xyz
 inviteslinks-blast.com
+invitesmeeting.top
 invitespht3r.cc
 invitesure.com
 inviteszteams.top
+inviteteams-meet.icu
 inviteteams-meeting.live
 inviteteams.live
 invitetoday.top
@@ -344223,6 +344230,7 @@ invitezoom.com
 invitezoom.top
 invitezoom.us
 invitezoomcallmeeting.site
+invitezoommeeting.xyz
 invitezoomsecuredindocfiles.top
 invitezuru.com
 invitited-credit-partner.lat
@@ -353390,6 +353398,7 @@ join-onchainmonkeys.com
 join-ondo.co
 join-ondo.finance
 join-oniforce.com
+join-onlinemeeting.com
 join-opcsec.com
 join-opengradient.com
 join-opensea.io
@@ -354145,6 +354154,7 @@ joinmeetings.live
 joinmeetingsinvites.com
 joinmeetingwithmeeboss.top
 joinmeetlive.com
+joinmeetrue.com
 joinmefortrade.com
 joinmet.app
 joinmetazeus.pro
@@ -354366,6 +354376,8 @@ jointherealworldapps.live
 jointherealworldex.com
 jointherealworldportals.live
 jointherealworldtrade.com
+jointmeetingpoint.com
+jointmeetingpoint.org
 jointmining.life
 jointmining.live
 jointmining.online
@@ -354436,6 +354448,7 @@ joinxerisol.xyz
 joinxiaoxioa.xyz
 joinxrp.net
 joinyoullgetnothings.xyz
+joinzmlivemeeting.com
 joinzoom-client.us
 joinzoom.cc
 joinzoom.live
@@ -355982,6 +355995,7 @@ jumper-allocation.app
 jumper-bridge.exchange
 jumper-bridged.xyz
 jumper-change.xyz
+jumper-desk.com
 jumper-dex.com
 jumper-dex.org
 jumper-ex.com
@@ -394496,6 +394510,7 @@ lpt-event.net
 lpt-hub.com
 lpt-reward.net
 lpth.online
+lptoken.fun
 lptokenfi.com
 lptz.ru
 lpuamc.top
@@ -408708,6 +408723,7 @@ meett-google.com
 meettdapper.com
 meetteam.co
 meetteamdiverserealestateit.co
+meetteamsg.com
 meetteamshq.co
 meetteamsnow.co
 meettingproschedule.sbs
@@ -419766,6 +419782,7 @@ microsoftmessageid.com
 microsoftms365.cfd
 microsoftnet.org
 microsoftnetcloud.com
+microsoftoffice-o365.com
 microsoftoffice.help
 microsoftoffice.site
 microsoftoffice.tech
@@ -447331,6 +447348,7 @@ netflixcn.cc
 netflixcodes.de
 netflixconfirmation.net
 netflixdates.com
+netflixde.com
 netflixdetreview.com
 netflixe.help
 netflixenligne.com
@@ -499910,6 +499928,7 @@ polyfun.app
 polyfuture.cc
 polyfxmarket.com
 polyganbridge.net
+polygate.co
 polygate.technology
 polygate.xyz
 polygcn.technology
@@ -517486,6 +517505,7 @@ pumrp.fun
 pums.info
 pums.site
 pumsp.fun
+pumstreamers.live
 pumtp.fun
 pumuip.fun
 pumup.fun
@@ -551785,6 +551805,7 @@ robinhoodchain.app
 robinhoodchecker.com
 robinhoodcoin.info
 robinhoodcoin.online
+robinhooddesktop.live
 robinhooddesktopwallet.app
 robinhooddrugs.com
 robinhoodea.com
@@ -634934,6 +634955,7 @@ teams-lgn-meeting21.live
 teams-li.com
 teams-live-admin.com
 teams-live-invite.online
+teams-live-meet.us
 teams-live.biz
 teams-live.cam
 teams-live.com.cn
@@ -634959,7 +634981,10 @@ teams-lr.com
 teams-ls.com
 teams-lu.com
 teams-lz.com
+teams-m365-meet.com
 teams-mail-mircosoft.app
+teams-meet-m365.com
+teams-meet-ms365.com
 teams-meet.cc
 teams-meet.cloud
 teams-meet.co
@@ -635008,6 +635033,7 @@ teams-mi.com
 teams-mircosoft.online
 teams-ml.com
 teams-moderator.com
+teams-ms365-meet.com
 teams-msg-microsoft.live
 teams-msg-ns.com
 teams-msg.com
@@ -635168,6 +635194,7 @@ teamsmeetingdesk839.online
 teamsmeetingjoinlink.site
 teamsmeetings.com
 teamsmeetings.live
+teamsmeetingsetup.com
 teamsmeetingstirqls.site
 teamsmicros.com
 teamsmicroso.com
@@ -635176,6 +635203,7 @@ teamsmicsoft.com
 teamsmsg-ns.live
 teamsoloinc.store
 teamsolub.com
+teamsonlinemeets.com
 teamsonlives.com
 teamsonn.com
 teamsopensea.com
@@ -655172,6 +655200,7 @@ transfer-usdt.shop
 transfer-view.com
 transfer-virement.com
 transfer-wallet.app
+transfer-wallet.live
 transfer-wallet.online
 transfer-website.com
 transfer.com.br
@@ -738050,6 +738079,7 @@ zec-air.com
 zec9.cc
 zecbridge.io
 zeccoin.xyz
+zecforge.tech
 zeck.ink
 zecoin.net
 zecpu.cc
@@ -744610,6 +744640,7 @@ zoomlivewithmike.com
 zoomlk.cfd
 zoomlnfo.app
 zoomlnfo.us
+zoomlnvites.com
 zoomm-pc.com
 zoomm.cyou
 zoomm.us
