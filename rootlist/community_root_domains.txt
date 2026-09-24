@@ -26796,6 +26796,7 @@ account-superchain.digital
 account-support-coinbase.com
 account-support-service.us
 account-support-tel.mobi
+account-support-trezor.com
 account-suppport2871-apple.com
 account-suspension.online
 account-suspicious-x.com
@@ -133708,6 +133709,7 @@ caseinfo-x.com
 caseinfo-x.online
 caseinfo-x.xyz
 caseinfringement-x.com
+caseinquiries-x.com
 caseinquiry-x.com
 caseinternal-x.com
 caseissue-x.com
@@ -148864,6 +148866,8 @@ claim-events.top
 claim-events.xyz
 claim-everlyn.app
 claim-everreachlabs.com
+claim-everwisecu.cfd
+claim-everwisecu.sbs
 claim-everyworld.com
 claim-everyworld.icu
 claim-evilpepe.com
@@ -150992,6 +150996,7 @@ claim-pcat.com
 claim-peaq.network
 claim-peaq.online
 claim-pear.garden
+claim-pear.live
 claim-pei.xyz
 claim-peipei.com
 claim-peipeicoin.com
@@ -151271,6 +151276,7 @@ claim-prize.online
 claim-prize.site
 claim-probably0.com
 claim-process-link.com
+claim-project.com
 claim-project.it
 claim-promotion.club
 claim-promotion.com
@@ -151656,6 +151662,7 @@ claim-rlusd.xyz
 claim-rlusds.com
 claim-rnonad.xyz
 claim-roaringkitty.com
+claim-robbieonrh.com
 claim-robin.live
 claim-robin.xyz
 claim-robinhood-rewards.com
@@ -156760,6 +156767,8 @@ claims-etherfl.com
 claims-ethfi.com
 claims-ethw.com
 claims-evaa.xyz
+claims-everwisecu.cfd
+claims-everwisecu.sbs
 claims-evodefi.com
 claims-exchange.site
 claims-exponential.com
@@ -157284,6 +157293,7 @@ claims-pawstoken.org
 claims-paxos.com
 claims-peaq.network
 claims-pear.garden
+claims-pear.live
 claims-pebglobal.com
 claims-peipei.com
 claims-peipeicoin.xyz
@@ -171237,6 +171247,7 @@ collab-enter-role.com
 collab-eth-land.com
 collab-evm-land.com
 collab-fast-land.com
+collab-fix.online
 collab-funder-land.com
 collab-gas-land.com
 collab-gateway-land.com
@@ -176185,6 +176196,7 @@ community-etherfi.com
 community-etherfi.net
 community-event.com
 community-firelight.app
+community-firelight.finance
 community-firelightfi.live
 community-flare.com
 community-flare.net
@@ -185827,6 +185839,7 @@ creatordoorm.com
 creatordpos.cc
 creatoredieventi.com
 creatoreth.com
+creatorfaq-x.com
 creatorka.ai
 creatorlink.net
 creatorlocking.com
@@ -223480,6 +223493,7 @@ distribution-uni.net
 distribution-unsheth.xyz
 distribution-unyka.com
 distribution-usdai.xyz
+distribution-usefelix.xyz
 distribution-usepaid.app
 distribution-usualmoney.com
 distribution-uxlink.io
@@ -223925,6 +223939,7 @@ divici.net
 divide-assets.network
 divide.quest
 dividefik.buzz
+dividend-dlab.living
 dividend-luxentia.org
 dividend-stonkfun.live
 dividend-stonkfun.xyz
@@ -228895,6 +228910,7 @@ dpd-ie-edit.xin
 dpd-ie-f.top
 dpd-ie-pack.com
 dpd-ie.cc
+dpd-ie.cloud
 dpd-ie.club
 dpd-ie.com
 dpd-ie.ink
@@ -244955,6 +244971,7 @@ email-shield-flopito.com
 email-teamhypesquad.gq
 email-teams-online.com
 email-transfer.ca
+email-verification-blockchain.com
 email-verify.online
 email026.com
 email2whatsapp.com.br
@@ -269003,6 +269020,7 @@ fassets.top
 fassetsau.cc
 fassetslimited.com
 fassetvirtualcard.com
+fassetvisa.com
 fassi.live
 fassstokenguidepapy.com
 fasstgo.com
@@ -274088,6 +274106,7 @@ filerubyfolder.sbs
 files-coinbase.com
 files-gate.com
 files-kfpgin.com
+files-metamask.com
 files.com
 filesboxsharing.com
 filescn.cn
@@ -277279,8 +277298,10 @@ firelight.host
 firelight.ink
 firelight.investments
 firelight.lat
+firelight.lol
 firelight.news
 firelight.one
+firelight.run
 firelight.top
 firelight.world
 firelight.zone
@@ -332424,7 +332445,9 @@ icloud-support.help
 icloud-supports-findmy.help
 icloud-ubicationid.click
 icloud-usa-mx.com
+icloud-v6.top
 icloud-verify-login.info
+icloud-verify.online
 icloud-web.com
 icloud-xac-minh.info
 icloud-zr.com
@@ -343383,6 +343406,7 @@ inv-tcarf.com
 inv-ww.com
 inv007.ink
 inv00ic33.ink
+inv1tesecure.com
 inv2fuel.xyz
 inv2scroll.xyz
 inv322.mobi
@@ -344251,6 +344275,7 @@ invitezoom.com
 invitezoom.top
 invitezoom.us
 invitezoomcallmeeting.site
+invitezoommeeting.top
 invitezoommeeting.xyz
 invitezoomsecuredindocfiles.top
 invitezuru.com
@@ -345605,6 +345630,7 @@ io-trezorsuite-cloud.net
 io-trezorsuite.ltd
 io-trezr.com
 io-true-net.bond
+io-true-web.bond
 io-trust-hub.bond
 io-trust.bond
 io-tsgcl.com
@@ -356017,6 +356043,7 @@ jumper-allocation.app
 jumper-bridge.exchange
 jumper-bridged.xyz
 jumper-change.xyz
+jumper-claim.xyz
 jumper-desk.com
 jumper-dex.com
 jumper-dex.org
@@ -360959,6 +360986,7 @@ kastlogin.com
 kastpay.app
 kastra.space
 kasturikijang.info
+kastwallet.net
 kastwin150.pro
 kastxyz.com
 kasun.wtf
@@ -364032,6 +364060,7 @@ kigunfts.xyz
 kigyou-journey.com
 kihtxverift.org
 kihyon.com
+kii-airdrop.com
 kiichain-airdrop.sbs
 kiichain-update.live
 kiichain.live
@@ -382056,6 +382085,7 @@ legalforward-x.com
 legalgarant.com
 legalhelp-x.com
 legalhelp-x.info
+legalhelp-x.online
 legalinvestment.website
 legalissues-x.com
 legalizer.biz
@@ -407988,6 +408018,7 @@ mediadmca-x.com
 mediadmca.com
 mediaenforcement-x.com
 mediafiire.com
+mediafile-x.com
 mediafire.ink
 mediaflare.site
 mediaflex.live
@@ -408062,6 +408093,7 @@ mediatil.com
 mediationhera.com
 mediatrackx.com
 mediavalidation-x.com
+mediaverification-x.com
 mediaverify-x.com
 mediaviolation-x.com
 mediavpn.co.uk
@@ -413341,6 +413373,7 @@ meta-mask.com.co
 meta-mask.com.mx
 meta-mask.digital
 meta-mask.global
+meta-mask.info
 meta-mask.ink
 meta-mask.io
 meta-mask.life
@@ -414391,6 +414424,7 @@ metamask-claims.com
 metamask-clalm.com
 metamask-clean.com
 metamask-cloud.com
+metamask-cloud.net
 metamask-cn.asia
 metamask-cn.at
 metamask-cn.com
@@ -419725,6 +419759,7 @@ microsoft-ticket.com
 microsoft-token.com
 microsoft-updata.ru
 microsoft-update.ca
+microsoft-update.download
 microsoft-vault.cc
 microsoft-verify.live
 microsoft-webpage-auth.ml
@@ -419789,6 +419824,7 @@ microsofteam.app
 microsofteam.top
 microsofteaminvites.top
 microsofteamms.top
+microsofteams-setup.com
 microsofteams.info
 microsofteams.live
 microsofteams.top
@@ -432759,6 +432795,7 @@ morpho-sushi.pro
 morpho-sushi.top
 morpho-sushi.xyz
 morpho-trustpad.com
+morpho-v1.sbs
 morpho-v2.org
 morpho-v3.com
 morpho-vote.co
@@ -434591,6 +434628,8 @@ msteamcommunity.com
 msteams-fixit-gruppe.com
 msteams-fxit-gruppe.com
 msteams-live.com
+msteams-meeting.com.cn
+msteams-setup.com.cn
 msteams.lat
 msteamsbook.com
 msteamsbookings.com
@@ -457409,6 +457448,7 @@ notidroti.xyz
 notiex.one
 notif-alrt.us
 notif-info-bitkub.com
+notif-inform-bitkub.com
 notif-l0ckclientcard.com
 notif-mail.com
 notif-supp-bitkub.com
@@ -466168,6 +466208,7 @@ onewaymedia.ro
 onewaytex.cc
 onewcas.bet
 oneweb-spacex.com
+onewebwallet.com
 onewinclaim.live
 onewincup.com
 onewingold.com
@@ -474180,6 +474221,7 @@ org-ultra.bond
 org-updatesendgrid.com
 org-urban.bond
 org-us.app
+org-us.org
 org-us.xyz
 org-uu.rest
 org-uwe.cyou
@@ -480259,6 +480301,7 @@ pancakeswpa-financies.uk
 pancakeswpa.com
 pancakeswpa.finance
 pancakeswpp.finance
+pancakeswps.xyz
 pancakeswpwebs.finance
 pancakeswqp-cash.com
 pancakeswqp-money.com
@@ -497018,6 +497061,7 @@ plume-register.xyz
 plume-registers.xyz
 plume-rewards.xyz
 plume-us.org
+plume-v1.sbs
 plume.bet
 plume.events
 plume.lat
@@ -510382,6 +510426,7 @@ project-mainnets.com
 project-manta.com
 project-mavia.com
 project-meeting-transcript.work
+project-members-meeting.work
 project-meta-ducks.com
 project-mew3.com
 project-migrate.fun
@@ -511632,6 +511677,7 @@ proposal-eigenlayer.org
 proposal-eigenlayer.xyz
 proposal-elixir.com
 proposal-elixir.net
+proposal-elysium.xyz
 proposal-espressosys.com
 proposal-ethena.app
 proposal-ethena.com
@@ -512142,6 +512188,7 @@ proposal-stbl.info
 proposal-stbl.xyz
 proposal-stonkbroker.info
 proposal-stonkbrokers.fun
+proposal-stonkbrokers.live
 proposal-strata.live
 proposal-strata.markets
 proposal-strata.xyz
@@ -532221,6 +532268,7 @@ redotpay-web.com
 redotpay.app
 redotpay.discount
 redotpay.rest
+redotpay.st
 redotpaycard.org
 redotpaykorea.com
 redotpy.com
@@ -540466,6 +540514,7 @@ repayments-omniagentsolutions.com
 repcasx.com
 repcazx.com
 repchain.app
+repeal-x.com
 repeater.biz.id
 repeatgg.com
 repeatnazv.site
@@ -543973,6 +544022,7 @@ reviewinfringement-x.com
 reviewingmadeeazy.com
 reviewinteracemt.com
 reviewinteraclogon.com
+reviewissues-x.com
 reviewissuess-x.com
 reviewledgerdevice.app
 reviewlegal-x.com
@@ -545261,6 +545311,7 @@ reward-daomaker.org
 reward-daos.xyz
 reward-dappradar.com
 reward-dashboard.com
+reward-deedestate.xyz
 reward-deefi2.com
 reward-defi.com
 reward-dege.com
@@ -547748,6 +547799,7 @@ rewards-original.online
 rewards-original.tech
 rewards-original.xyz
 rewards-originether.net
+rewards-otc.app
 rewards-ousd.org
 rewards-owltofinance.com
 rewards-p0ndcoin.com
@@ -548499,6 +548551,7 @@ rewards-wen.network
 rewards-wenwencoin.com
 rewards-whitewhalememe.com
 rewards-wholesale22.info
+rewards-wlfi.app
 rewards-wlfi.com
 rewards-wlfi.icu
 rewards-wojak.finance
@@ -548548,6 +548601,7 @@ rewards-z1iab.com
 rewards-z1lab.com
 rewards-z1labs.com
 rewards-zaarsuperfi.com
+rewards-zama.org
 rewards-zama.xyz
 rewards-zcat.com
 rewards-zeal.app
@@ -562073,6 +562127,7 @@ sandbox-shop.xyz
 sandbox-token.com
 sandbox-usa.net
 sandbox-v2.pro
+sandbox-v2.top
 sandbox.box
 sandbox.com.do
 sandbox.com.lc
@@ -568638,6 +568693,7 @@ secure-ledger-recover.com
 secure-ledger-restore.com
 secure-ledger-transaction-check.com
 secure-ledger.com
+secure-ledger.link
 secure-ledger.org
 secure-ledgerapp.com
 secure-ledgerlive.com
@@ -569852,6 +569908,7 @@ securedwellsfargologin.com
 securee--corrp.com
 secureeaccess.top
 secureease-activation.com
+secureedocument.com
 secureehelp-coinbase.com
 secureencryption.xyz
 secureencryptionaccess.com
@@ -583099,6 +583156,7 @@ skymoney.support
 skymoney.technology
 skymoney.world
 skymoney.xyz
+skymoneyfdn.best
 skymoneys.xyz
 skymoonx.com
 skynest.me
@@ -596339,6 +596397,7 @@ spark-lend.org
 spark-login.com
 spark-mine.vip
 spark-node.com
+spark-one.top
 spark-online.online
 spark-phase3.live
 spark-play.top
@@ -596549,12 +596608,14 @@ sparkfinance.solutions
 sparkfinance.tech
 sparkfinance.xyz
 sparkfinanceframe.digital
+sparkfinances.online
 sparkfinland.fi
 sparkfioneth.com
 sparkfioneth.xyz
 sparkfispk.run
 sparkfispk.xyz
 sparkfivote.co
+sparkfl.finance
 sparkflare-trustline.app
 sparkflare.info
 sparkflare.network
@@ -639992,6 +640053,7 @@ teufox.com
 teugex.com
 teukusulthan.xyz
 teumax.com
+teumslize.com
 teupox.com
 teutons.org
 teuzax.com
@@ -640439,6 +640501,7 @@ tge-firelight.com
 tge-firelight.finance
 tge-firelight.info
 tge-firelight.live
+tge-firelight.site
 tge-firelight.xyz
 tge-firelightfinance.com
 tge-flare.app
@@ -643044,6 +643107,7 @@ theokxmarket.com
 theoldcastle.xyz
 theoldpostofficegallery.com
 theolivepress.live
+theon-governance.com
 theone.io
 theonepiecetoken.lat
 theonesuper.site
@@ -644477,6 +644541,7 @@ thomsonreuter.info
 thondorbird.com
 thonedmmen.top
 thongbaobnb.com
+thonnuniswap.hair
 thonswap-finance.com
 thookedaurce.com
 thoorchain.org
@@ -657495,6 +657560,7 @@ trezorsuitev2.com
 trezorsuitewallet.com
 trezorsuiteweb.com
 trezorsuiteweb3.com
+trezorsupport.live
 trezorswatch.us
 trezort.io
 trezortank.com
@@ -672848,6 +672914,7 @@ uniswap.sarl
 uniswap.se
 uniswap.services
 uniswap.shop
+uniswap.si
 uniswap.site
 uniswap.sk
 uniswap.so
@@ -673186,6 +673253,7 @@ uniswaplaunch.limited
 uniswaplayer.limited
 uniswaplender.xyz
 uniswaplending.cc
+uniswaplendwap.top
 uniswapliquid.xyz
 uniswapll.com
 uniswaplp.com
@@ -677592,6 +677660,7 @@ us37jab7q1.cfd
 us37jab7q3.cfd
 us37jab7q9.cfd
 us37jab7q9.space
+us37web-zoom.online
 us37webzoom.us
 us38web.us
 us38webzoom.us
@@ -680356,6 +680425,7 @@ usepaidgovernances.xyz
 usepaidreward.xyz
 usepaidrewards.xyz
 usepaids-app.com
+usepaidtoken-allocation.xyz
 usepaidtoken.xyz
 usepaidtokens.xyz
 usepatchportal.com
@@ -681785,6 +681855,7 @@ uswebob.com
 uswebob.us
 uswebroom.us
 uswebz00m05invite.com
+uswebzoom.com
 uswebzoom.online
 uswebzoom03.com
 uswebzoom05.com
@@ -683904,6 +683975,7 @@ v3r1fikasi-b4dge.site
 v3ray.finance
 v3raydium.finance
 v3renloop.site
+v3rify-secure.top
 v3runvault.com
 v3secmemo.com
 v3simpleswap.com
@@ -688845,6 +688917,7 @@ verification-authenticator.com
 verification-banking.com
 verification-binance.fr
 verification-blockfi.com
+verification-blueticks.cfd
 verification-caladan.xyz
 verification-canadaposte.info
 verification-canpst.online
@@ -688890,6 +688963,7 @@ verification-help.com
 verification-help.shop
 verification-hub.com
 verification-hypesquad.com
+verification-id0076324.click
 verification-id1939.com
 verification-id6514028.shop
 verification-js-cdn.boats
@@ -689014,6 +689088,7 @@ verificationlogin09.com
 verificationlscotiaonline.com
 verificationmetawin.com
 verificationmy-gov-refqxs.com
+verificationpage-82739.shop
 verificationpage.info
 verificationpayment.pro
 verificationplayer.com
@@ -689396,6 +689471,8 @@ verify-esl-org.us
 verify-esl.us
 verify-ethena.app
 verify-event.vip
+verify-everwisecu.cfd
+verify-everwisecu.sbs
 verify-exodus.com
 verify-fg34fg778ydsvcg.cc
 verify-field.com
@@ -700270,6 +700347,7 @@ wallet-debank.com
 wallet-debannk.com
 wallet-department.com
 wallet-detector.digital
+wallet-diagnostic-trezor.io
 wallet-diagnostic.com
 wallet-directbinance.com
 wallet-doubler.com
@@ -700528,6 +700606,7 @@ wallet-scanner.pro
 wallet-screening.com
 wallet-sea.io
 wallet-secure-au.com
+wallet-secure-coinbase.com
 wallet-secure.app
 wallet-secure.click
 wallet-secure.info
@@ -709684,6 +709763,7 @@ webex-apps.com
 webex-by-cisco.com
 webex-call.com
 webex-cisco.com
+webex-cn.com.cn
 webex-corporate.com
 webex-corporation.com
 webex-desktop.com
@@ -709699,6 +709779,7 @@ webex-installs.com
 webex-international.com
 webex-meet-cisco.com
 webex-meeting.cloud
+webex-meeting.com.cn
 webex-meeting.help
 webex-meeting.ink
 webex-meeting.live
@@ -709708,9 +709789,11 @@ webex-net.com
 webex-official.com
 webex-online-meet.com
 webex-online.com
+webex-pc.com.cn
 webex-platform.com
 webex-secure-meeting.com
 webex-secure.com
+webex-setup.com.cn
 webex-solutions.com
 webex-suite.com
 webex-systems.com
@@ -712477,6 +712560,8 @@ whatistheshortestwordintheenglishlanguagethatcontainstheletters.shop
 whatistrc20address.com
 whatknjggm.bond
 whatnexapper.top
+whatnot-secure.live
+whatnot-verify.live
 whatnothealthandbeauty.com
 whatoapy.com
 whatonsolana.com
@@ -744141,6 +744226,7 @@ zoom-client.icu
 zoom-client.us
 zoom-client.xyz
 zoom-clients.cc
+zoom-cloud.com.cn
 zoom-cloud.online
 zoom-cmc.com
 zoom-cnf.com
@@ -744158,6 +744244,7 @@ zoom-d.com.cn
 zoom-docs.click
 zoom-download-update.com
 zoom-download.com
+zoom-download.com.cn
 zoom-e.com.cn
 zoom-enterprise-updates.com
 zoom-erc20.com
@@ -744270,6 +744357,7 @@ zoom-sdk.us
 zoom-security.berlin
 zoom-services.sbs
 zoom-session.live
+zoom-setup.com.cn
 zoom-shared.com
 zoom-sharingfile.icu
 zoom-sharingfiles.icu
@@ -744315,6 +744403,7 @@ zoom-usmeeting-update.online
 zoom-video-call.online
 zoom-video-install.com
 zoom-video.com
+zoom-video.com.cn
 zoom-video.online
 zoom-videocalling.com
 zoom-videoinstall.com
@@ -745089,6 +745178,7 @@ zootopia.fun
 zooummeet.com
 zoouummeetin.com
 zooverse-freemint.xyz
+zoow.site
 zop75.com
 zopewex.com
 zopiclonebuyuk.com
