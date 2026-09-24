@@ -59951,6 +59951,7 @@ app-ceitus.zone
 app-celer.network
 app-celestia.com
 app-celestia.org
+app-celo.xyz
 app-celtus.zone
 app-celularseguro.com
 app-centric.live
@@ -136302,6 +136303,7 @@ cbrdz.com
 cbrdzgroup.fun
 cbrdzspace.tech
 cbrealestatecr.xyz
+cbrecovery.live
 cbrecovery.pro
 cbredirect.com
 cbreenergy.com
@@ -228988,6 +228990,7 @@ dpd-ie.com
 dpd-ie.ink
 dpd-ie.link
 dpd-ie.shop
+dpd-ie.vip
 dpd-ie.xin
 dpd-kalvora.click
 dpd-lpobj.cc
@@ -297810,6 +297813,7 @@ genesis-alignedfoundation.org
 genesis-alignedfoundations.lol
 genesis-alignedfundation.org
 genesis-apyx.com
+genesis-arbitrum.app
 genesis-arcus.xyz
 genesis-basedfoundation.com
 genesis-bio.xyz
@@ -309543,6 +309547,7 @@ governance-firelight.com
 governance-firelight.finance
 governance-firelight.fun
 governance-firelight.icu
+governance-firelight.lol
 governance-firelight.org
 governance-firelight.pro
 governance-firelight.top
@@ -335784,6 +335789,7 @@ imcoke8.xyz
 imctrading.cc
 imctradingview.com
 imcview.com
+imdashboard.live
 imdashboard.online
 imdb-develop.com
 imdb-us.cc
@@ -339609,6 +339615,7 @@ ingbanking.app
 ingbankingapp.com
 ingbeleggen.com
 ingbhk.com
+ingdirect-accesoweb-login.com
 ingdirect-alerta-clientes.com
 ingdirect-cliente-gestion.com
 ingdirect-clientes-alerta.com
@@ -443236,6 +443243,7 @@ na2-smartwallet.com
 na3-smartwallet.com
 na4-documentadobe.pro
 na47pldl5eoqxt42.onion
+na4documents-deluxreceipt.pro
 na4u.ru
 na9-smartwallet.com
 naa.my.id
@@ -476744,6 +476752,7 @@ oxfordunitedwfc.co.uk
 oxfordworldwidegroup.com
 oxfun.icu
 oxfun.net
+oxgexxcex.com
 oxgexxcexnb.com
 oxglens.net
 oxgwde.cc
@@ -488202,6 +488211,7 @@ peopleda.net
 peoplefirstservices.top
 peoplegame.it
 peopleinbase.xyz
+peopleinhistory.co.uk
 peopleinpaddocks.com.au
 peoplemarketing.co
 peopleofcrypto.xyz
@@ -618946,8 +618956,10 @@ straitswww.com
 straitsxar.cc
 straitsxayhc.com
 straitsxc.co
+straitsxc.com
 straitsxd.top
 straitsxed.cc
+straitsxed.com
 straitsxedx.cc
 straitsxf.cc
 straitsxf.pro
@@ -618956,7 +618968,9 @@ straitsxg.cc
 straitsxg.com
 straitsxgrab.com
 straitsxhot.com
+straitsxi.com
 straitsxjn.com
+straitsxk.com
 straitsxki.cc
 straitsxki.com
 straitsxl.com
@@ -618964,7 +618978,19 @@ straitsxo.com
 straitsxq.com
 straitsxq.vip
 straitsxqadex.com
+straitsxr.com
+straitsxrt.com
+straitsxs.com
+straitsxte.com
+straitsxtea.com
+straitsxteb.com
+straitsxter.com
+straitsxtr.com
+straitsxue.com
+straitsxun.com
+straitsxuy.com
 straitsxw.cc
+straitsxy.com
 straitxonline.com
 strakhett.com
 straknelt.online
@@ -686100,6 +686126,7 @@ variagional.io
 variaional.io
 variaitional.app
 variaitional.com
+variaitional.io
 variaitonal.io
 varialiornat-protocol.com
 varialtional.cc
