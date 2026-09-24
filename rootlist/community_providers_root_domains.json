@@ -6,7 +6,7 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 144345,
+      "total_entries": 144351,
       "items": [
         {
           "domain": "pages.dev",
@@ -74898,7 +74898,7 @@
         },
         {
           "domain": "vercel.app",
-          "count": 20136,
+          "count": 20137,
           "hosts": [
             "0-73-fr-66.vercel.app",
             "0-autht-lo-xfin-ity-w0965.vercel.app",
@@ -76296,6 +76296,7 @@
             "badge-de-200926.vercel.app",
             "badge-system-ten.vercel.app",
             "badidearewardbonus.vercel.app",
+            "bagsapp.vercel.app",
             "bal202-gplq.vercel.app",
             "balancer-fi.vercel.app",
             "banana-miner-beta.vercel.app",
@@ -95040,10 +95041,13 @@
         },
         {
           "domain": "netlify.app",
-          "count": 10783,
+          "count": 10788,
           "hosts": [
             "0.netlify.app",
             "0g-foundiation-claim.netlify.app",
+            "0kxloyaltycommunityopenhub-1zoe.netlify.app",
+            "0kxloyaltycommunityopenhub-ka1x.netlify.app",
+            "0kxloyaltycommunityopenhub-za9a.netlify.app",
             "0x-master-fix.netlify.app",
             "0x0claim.netlify.app",
             "0xclaimvalidate.netlify.app",
@@ -96466,6 +96470,7 @@
             "claim-m2.netlify.app",
             "claim-mb.netlify.app",
             "claim-meme.netlify.app",
+            "claim-memecoins.netlify.app",
             "claim-mms.netlify.app",
             "claim-mn.netlify.app",
             "claim-monad-airdrop.netlify.app",
@@ -99640,6 +99645,7 @@
             "memecoin-drops.netlify.app",
             "memecoin-giveaway.netlify.app",
             "memecoins-claim.netlify.app",
+            "memecoins-drops.netlify.app",
             "memecoins-giveaway.netlify.app",
             "memecoins-onsolana.netlify.app",
             "memelandcoin.netlify.app",

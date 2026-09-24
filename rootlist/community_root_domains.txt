@@ -445,6 +445,7 @@
 02webn.us
 02webr.sbs
 02webs.us
+02webus.com
 02webus.sbs
 02zoom.net
 03-chain.link
@@ -503,6 +504,7 @@
 03bub.vip
 03c5157.com
 03hurx.beer
+03in.us
 03inet.us
 03live.us
 03seucre-auth.click
@@ -551,6 +553,7 @@
 04bin.us
 04jd0b0.ru
 04jycmgl777u.cc
+04mweb.us
 04neae1e9.info
 04net.us
 04rweb.us
@@ -24170,6 +24173,7 @@ aavegovernance.app
 aavegovernance.com
 aavegovernance.io
 aavegovernance.net
+aavegovernances.com
 aavegsystem.com
 aaveguide.com
 aaveh.com
@@ -30494,6 +30498,7 @@ aerobrome.finance
 aerobuild.digital
 aerocargo-express.com
 aerocargodeliveryservices.com
+aerocdrome.finance
 aerocheck-cdev.xyz
 aeroclaim.xyz
 aeroclon.com
@@ -60720,6 +60725,7 @@ app-flaregovernance.com
 app-flaregovernance.xyz
 app-flaregovernances.com
 app-flaremainnet-portal.com
+app-flaremainnet.com
 app-flarenetwork.com
 app-flarenetworks.com
 app-flarenetworks.xyz
@@ -60764,6 +60770,7 @@ app-frame.xyz
 app-frankencoin.xyz
 app-frax.financial
 app-frax.live
+app-frax.xyz
 app-fraxfinance.net
 app-freeairdrop.com
 app-fren-pet.xyz
@@ -135008,6 +135015,7 @@ castroecarrasco.com.br
 castrump.com
 caststream.live
 caststreams.live
+castvote.forum
 castwaysnft.xyz
 casual-crush.com
 casuals.biz.id
@@ -173330,6 +173338,7 @@ com-caqhd.my
 com-caqlz.my
 com-caran.vip
 com-careportal.com
+com-case.info
 com-case.live
 com-case1.help
 com-caseid26980.shop
@@ -185568,6 +185577,7 @@ crate-embercurve.fun
 crate-embercurves.fun
 crate-emberscurve.fun
 crate-kamino.com
+crate-kids.fun
 crate-musebook.lol
 crate-netnet.capital
 crate-netnetcapital.com
@@ -185593,9 +185603,11 @@ crates-deltaliqudity.app
 crates-embercurve.app
 crates-embercurve.fun
 crates-emberscurve.fun
+crates-familiars.world
 crates-justlend.org
 crates-kamino.com
 crates-kamino.lat
+crates-kids.fun
 crates-long.supply
 crates-musebook.lol
 crates-netnet.capital
@@ -225850,6 +225862,7 @@ documentgosuslugi.com
 documenti-reddito-binance.com
 documentos-online.com
 documentosdoc.com
+documentpartage.com
 documentprotect.live
 documentprotect.pro
 documentreviewinmeets.com
@@ -238386,6 +238399,7 @@ ecosystem-firelight.xyz
 ecosystem-flare.app
 ecosystem-flare.com
 ecosystem-flare.network
+ecosystem-flare.xyz
 ecosystem-flarefnd.live
 ecosystem-flarefoundation.xyz
 ecosystem-flarenetwork.com
@@ -238393,6 +238407,7 @@ ecosystem-flarenetwork.xyz
 ecosystem-floki.com
 ecosystem-flow.com
 ecosystem-flr.xyz
+ecosystem-fluid.xyz
 ecosystem-fogo.org
 ecosystem-frax.com
 ecosystem-frax.xyz
@@ -280236,7 +280251,9 @@ flarenetwork.icu
 flarenetwork.info
 flarenetwork.io
 flarenetwork.lat
+flarenetwork.life
 flarenetwork.live
+flarenetwork.lol
 flarenetwork.net
 flarenetwork.one
 flarenetwork.online
@@ -280349,13 +280366,17 @@ flarenetworks.de
 flarenetworks.fun
 flarenetworks.icu
 flarenetworks.info
+flarenetworks.ink
 flarenetworks.lat
+flarenetworks.life
 flarenetworks.live
+flarenetworks.lol
 flarenetworks.me
 flarenetworks.net
 flarenetworks.one
 flarenetworks.org
 flarenetworks.site
+flarenetworks.space
 flarenetworks.tech
 flarenetworks.top
 flarenetworks.xyz
@@ -290622,6 +290643,7 @@ fumbetops.site
 fumbi.network
 fumbl.xyz
 fumblbags.com
+fumblbags.xyz
 fumble.bot
 fumbled-bags.com
 fumbledbags.co
@@ -320658,6 +320680,7 @@ helpvalidatepage.com
 helpverify-info.online
 helpverifynzpost.com
 helpview-coinbase.com
+helpvote.forum
 helpvotes.forum
 helpwalletcounbased.online
 helpweb3.dev
@@ -343166,6 +343189,7 @@ intervisioncloud.site
 intervu-talent.pro
 intervwolf.com
 interwalletaid.com
+interzoom.net
 interzoom.us
 intesa-850aurum.it
 intesa850-aurum.it
@@ -388800,6 +388824,7 @@ listing.bid
 listingcheck.com
 listingcollective.com
 listinggemini.com
+listinghelp.forum
 listinghub.live
 listingoffer.live
 listingofferhub.live
@@ -388855,6 +388880,7 @@ lists-moonshot.com
 lists-moonshot.org
 listsandvote.fun
 listsandvotes.cc
+listshelping.forum
 listsokx.com
 listsupport.forum
 listviewss.com
@@ -438985,6 +439011,7 @@ my-focus-ngsports.com
 my-focus-yaxing.com
 my-foundation.ru
 my-friend.tech
+my-fumbledbags.com
 my-fusebox.com
 my-galxe.com
 my-game.biz
@@ -462363,6 +462390,7 @@ officialnftsaphire.com
 officialnftsnickelodeon.com
 officialniftygateway.com
 officialoasisapp.com
+officialokxpoll.com
 officialonsol.lol
 officialopensea.com
 officialpage2024.shop
@@ -492243,7 +492271,9 @@ phase2-firelight.app
 phase2-firelight.com
 phase2-firelight.finance
 phase2-firelight.foundation
+phase2-firelight.icu
 phase2-firelight.info
+phase2-firelight.life
 phase2-firelight.live
 phase2-firelight.sbs
 phase2-firelight.xyz
@@ -539827,6 +539857,7 @@ renewy.cfd
 renewyourbill846.info
 renewyoursubscription044.info
 renexenterprise.com
+renfe-sncf.com
 renffg.co
 renfiskom.com
 renforcage-compte.online
@@ -597474,6 +597505,7 @@ spencerpromosbrandlab.com
 spencershard.com
 spencerstuartllc.top
 spencerztzy.web.id
+spend-block.com
 spend-debit.org
 spend-every.shop
 spend-partner.app
@@ -618384,6 +618416,7 @@ stonkfnu.xyz
 stonkfon.xyz
 stonkfoundation.xyz
 stonkfun-distributoin.com
+stonkfun-dividends.xyz
 stonkfun-proposal.xyz
 stonkfun-tokens.xyz
 stonkfun.app
@@ -660339,6 +660372,7 @@ trump4u.org
 trump7.com
 trump777.bet
 trump888.net
+trumpaccfund.site
 trumpaccount.charity
 trumpaccounts.pro
 trumpaccountsguide.com
@@ -660482,6 +660516,7 @@ trumpflow.com
 trumpforpresidenst2024.com
 trumpfreedrop.app
 trumpfreetok.com
+trumpfundrobin.lol
 trumpfundus.com
 trumpgamb.com
 trumpgame.cc
@@ -661210,6 +661245,7 @@ trust-gift.com
 trust-giveaway.com
 trust-giveaway.pro
 trust-global-documents.org
+trust-global.org
 trust-globaldefi.com
 trust-globalunion.online
 trust-go.info
@@ -679033,6 +679069,7 @@ usdcscan.com
 usdcshop.online
 usdcsol.net
 usdcspace.club
+usdcspin.com
 usdcspin.top
 usdcstable.com
 usdcstable.net
@@ -712154,6 +712191,7 @@ wessper.com
 wessxcrz.online
 west-balancer.com
 west-braves.info
+west-card.net
 west-drop.website
 west-libertygroup.sbs
 west-libertygroups.top
@@ -731638,6 +731676,7 @@ xrpday.net
 xrpday.org
 xrpdays.com
 xrpdeep.us
+xrpdesk.app
 xrpdex.us
 xrpdonate.online
 xrpdouble-event.info
