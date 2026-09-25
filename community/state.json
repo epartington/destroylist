@@ -4,18 +4,18 @@
     "count": 263,
     "consecutive_failures": 0
   },
-  "Polkadot": {
-    "hash": "e6dab0ecf95948282d710ead422876cf27a5b4bb46e3e2656ee20eb8cfe4c739",
-    "count": 53990,
-    "consecutive_failures": 0
-  },
   "MetaMask": {
-    "hash": "ec2513659e9c7da75e7d5c178cc85a94726778ed357a9d73fc031a8a20e16db7",
-    "count": 100329,
+    "hash": "d188233c0e1536270af709223b79cf7569ed08061d8ce7b9243ee2b609d419a2",
+    "count": 100245,
     "consecutive_failures": 0
   },
   "Codeesura": {
     "hash": "77fd07f4fd519c4474630daa61948b84ef47e7b0adee8760138076f4150012b5",
+    "count": 53990,
+    "consecutive_failures": 0
+  },
+  "Polkadot": {
+    "hash": "e6dab0ecf95948282d710ead422876cf27a5b4bb46e3e2656ee20eb8cfe4c739",
     "count": 53990,
     "consecutive_failures": 0
   },
@@ -34,24 +34,19 @@
     "count": 107934,
     "consecutive_failures": 0
   },
-  "Phishunt": {
-    "hash": "270209f0e0ed11178c4785fb97b76eb36c9da4a5b82347c48ac1e3d263713481",
-    "count": 771,
-    "consecutive_failures": 0
-  },
   "DiscordPhishing_Dogino": {
     "hash": "de5a0e8ec92d9054c3c49f750000f536e786886032255a6b6131c098c0f65250",
     "count": 37078,
     "consecutive_failures": 0
   },
-  "SEAL": {
-    "hash": "ce4baf2ee96614bb591f4c5e0feabc300b87252d839ce1940393b2ea35e418f4",
-    "count": 99768,
+  "Phishunt": {
+    "hash": "56625272a9e3d8fb422cf7fce6f0bbe316d516b07353a7f2754e1e4cbea2d6da",
+    "count": 775,
     "consecutive_failures": 0
   },
-  "ScamSniffer": {
-    "hash": "4e1d86d51799b69e0cbe7d45eb26d6147dbec947be21bc91e2087e368c39bdb9",
-    "count": 354989,
+  "SEAL": {
+    "hash": "96385b760507839d5f2e0d626a78a29b1f820ed2f18c9d4aba000ad02d1a35b1",
+    "count": 99677,
     "consecutive_failures": 0
   },
   "Enkrypt_Blacklist": {
@@ -59,5 +54,10 @@
     "count": 243830,
     "consecutive_failures": 0
   },
-  "total_count": 1096983
+  "ScamSniffer": {
+    "hash": "4e1d86d51799b69e0cbe7d45eb26d6147dbec947be21bc91e2087e368c39bdb9",
+    "count": 354989,
+    "consecutive_failures": 0
+  },
+  "total_count": 1097009
 }

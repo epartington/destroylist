@@ -9302,6 +9302,7 @@
 273284canada-rev-agencye-transfersecure.info
 273455.xyz
 27346791.vip
+273564-coinbase.com
 273581-coinbase.com
 273589-gemini.com
 273659.app
@@ -60004,6 +60005,7 @@ app-camelots.com
 app-camobile.com
 app-campnetwork.xyz
 app-cantina.com
+app-canton.xyz
 app-cap.xyz
 app-captcha.bot
 app-captcha.com
@@ -87854,6 +87856,7 @@ bankofamerica-declined.ph
 bankofamerica-direct.ph
 bankofamerica-download.ph
 bankofamerica-ebanking.ph
+bankofamerica-ec.com
 bankofamerica-fiu.ph
 bankofamerica-foreclosures.ph
 bankofamerica-fraud-protection.ph
@@ -128445,6 +128448,7 @@ cake-v4-02.cfd
 cake-v4-03.sbs
 cake-v4-2938.sbs
 cake-wallet-web.at
+cake-wallet.co
 cake-wallet.com
 cake-wallet.live
 cake-wallet.top
@@ -157115,6 +157119,7 @@ claims-jupiter.com
 claims-kaito.live
 claims-kaito.network
 claims-kaito.org
+claims-kamino.com
 claims-kaminofinance.app
 claims-kaminofinance.net
 claims-kangamoon.com
@@ -227619,6 +227624,7 @@ dominionnationalbank.org
 dominionoptions.com
 dominionpayment.ca
 dominionsignaltrade.com
+domino.run
 dominoaxis.net
 dominopisa.com
 dominopokerterpercaya.com
@@ -229193,6 +229199,7 @@ dpdgroups.cc
 dpdhelp.one
 dpdher.buzz
 dpdi.xyz
+dpdi58.top
 dpdlocaaa.cyou
 dpdlocaae.shop
 dpdlocaai.cyou
@@ -308075,6 +308082,7 @@ google-walllet.com
 google-zh.net
 google.com.bd
 google.dj
+google.js.cn
 google1107.com
 google1208.com
 google1302.com
@@ -373418,6 +373426,7 @@ kucoin-login.at
 kucoin-login.com
 kucoin-login.net
 kucoin-manualweb.com
+kucoin-pochta-steamcommunity.ph
 kucoin-presale.com
 kucoin-presales.com
 kucoin-program.com
@@ -454469,6 +454478,7 @@ nl-info.xyz
 nl-ledger.com
 nl-metamask.com
 nl-rakuten.com
+nl-spotify.com
 nl-web-whatsapp.com.cn
 nl4hmv.pro
 nlacbe.com
@@ -458861,6 +458871,7 @@ npc-register.co
 npc-rewards.com
 npc-snapshot.co
 npc-sol.info
+npc-solana.com
 npc-sushi.cc
 npc-sushi.lat
 npc-sushi.pro
@@ -492561,7 +492572,9 @@ phase2-firelight.icu
 phase2-firelight.info
 phase2-firelight.life
 phase2-firelight.live
+phase2-firelight.pro
 phase2-firelight.sbs
+phase2-firelight.top
 phase2-firelight.xyz
 phase2-firelightfi.app
 phase2-firelightfi.live
@@ -589550,8 +589563,18 @@ softnexa.cc
 softnote-wallet.xyz
 softnote.xyz
 softonchain.com
+softonic-ar.com
+softonic-id.com
 softonic-th.com
+softonic.cn
 softonic.com
+softonic.com.br
+softonic.com.tr
+softonic.jp
+softonic.kr
+softonic.pl
+softonic.ru
+softonic.se
 softontop.com
 softorod.com
 softowii.com
@@ -668922,6 +668945,7 @@ tycp1.com
 tycp8888.com
 tyddex.com
 tydiscord.com
+tydro-v2.com
 tydro-vote.com
 tydro-voting.com
 tydro.icu
@@ -712282,6 +712306,7 @@ wenobet.com
 wenoma.co
 wenowex.com
 wenox.bet
+wenpcs.family
 wenpepe.com
 wenperk.com
 wenpick.com
