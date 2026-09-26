@@ -1,10 +1,8 @@
-Sync: +1 OpenPhish, +161 MetaMask, +209 SEAL, -29 Phishunt, +72 ScamS...
+Sync: -22 MetaMask, +12 Phishunt, -22 SEAL
 
-Total domains: 1,097,562
+Total domains: 1,097,608
 
 Changes:
-- OpenPhish: +1
-- MetaMask: +161
-- SEAL: +209
-- Phishunt: -29
-- ScamSniffer: +72
+- MetaMask: -22
+- Phishunt: +12
+- SEAL: -22

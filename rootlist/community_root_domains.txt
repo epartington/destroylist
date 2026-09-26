@@ -47376,6 +47376,7 @@ allocation-yeettoken.co
 allocation-yellow.app
 allocation-yescoin.com
 allocation-yieldbasis.com
+allocation-yieldbasis.fun
 allocation-yieldbasis.xyz
 allocation-yieldnest.fi
 allocation-z.cash
@@ -101236,6 +101237,8 @@ binglbet.com
 binglbet.win
 bingload.cyou
 binglvr.com
+bingnc.com
+bingnc.net
 bingo-joingrapes.com
 bingo-near-meph.net
 bingo777.now
@@ -143099,6 +143102,7 @@ check-usepaid.com
 check-usualmoney.com
 check-usualmoney.xyz
 check-varational.xyz
+check-variational.xyz
 check-veda.tech
 check-veda.xyz
 check-venom.foundation
@@ -200457,6 +200461,7 @@ dapps-onchain.xyz
 dapps-online.com
 dapps-online.org
 dapps-online.xyz
+dapps-otcdesks.cash
 dapps-phase2firelight.com
 dapps-pro.com
 dapps-pro.world
@@ -236338,6 +236343,7 @@ earn-eth.top
 earn-eth.xyz
 earn-ether.fi
 earn-ether.site
+earn-etherfi.app
 earn-etherfi.xyz
 earn-everstake.com
 earn-exodus.pro
@@ -277551,6 +277557,7 @@ firelight-finance.net
 firelight-finance.pro
 firelight-finances.net
 firelight-flare.com
+firelight-flow.com
 firelight-flt.com
 firelight-flt.info
 firelight-foundation.app
@@ -277618,6 +277625,7 @@ firelight-rapid.xyz
 firelight-rewards.com
 firelight-rewards.live
 firelight-rewards2.com
+firelight-round.com
 firelight-round2.com
 firelight-s2.com
 firelight-s2.info
@@ -277740,6 +277748,8 @@ firelightfi-rewards.com
 firelightfi-rewards.live
 firelightfi-rewards.xyz
 firelightfi-secure.live
+firelightfi-shareholder.xyz
+firelightfi-shareholders.xyz
 firelightfi-snapshot.xyz
 firelightfi-snapshots.xyz
 firelightfi-split.live
@@ -277755,6 +277765,8 @@ firelightfi-token.live
 firelightfi-token.xyz
 firelightfi-tokens.live
 firelightfi-verified.live
+firelightfi-vote.xyz
+firelightfi-votes.xyz
 firelightfi-voting.com
 firelightfi-votings.com
 firelightfi.click
@@ -277822,6 +277834,7 @@ firelightfinances.com
 firelightfinances.info
 firelightfireward.xyz
 firelightfirewards.xyz
+firelightfishareholder.xyz
 firelightfisnapshot.xyz
 firelightfisnapshots.xyz
 firelightfistake.xyz
@@ -277830,6 +277843,7 @@ firelightfistaking.xyz
 firelightfistakings.xyz
 firelightfitoken.xyz
 firelightfitokens.xyz
+firelightfivote.xyz
 firelightfivotes.xyz
 firelightflt.com
 firelightfn-gain.xyz
@@ -323861,6 +323875,7 @@ holddex.icu
 holdenpx.com
 holder-collab.land
 holder-firelightfi.xyz
+holder-kinetiq.app
 holder-mint.xyz
 holder-netnet.capital
 holder-netnetcapital.xyz
@@ -343159,6 +343174,7 @@ interests-stable.xyz
 interests-theindex.finance
 interests-usdai.com
 interests-usdai.live
+interests-usdai.top
 interests-usdai.xyz
 interests-yieldbasis.com
 interestversefxx.com
@@ -364945,6 +364961,7 @@ kinetiq-foundtaion.org
 kinetiq-foundtion.org
 kinetiq-fountadion.org
 kinetiq-fountation.org
+kinetiq-holder.app
 kinetiq-holder.xyz
 kinetiq-holders.xyz
 kinetiq-hyperliquid.com
@@ -389167,6 +389184,7 @@ listenvid.net
 listex.co
 listforge.pro
 listfunds.com
+listhelps.forum
 listia-verify.help
 listify-moonshot.com
 listine.net
@@ -393602,6 +393620,7 @@ longdistance.online
 longdragons.ai
 longdrink.finance
 longecosystem.app
+longecosystems.app
 longevity-vibe.com
 longevityhealth.net
 longflourish-rc.com
@@ -513202,6 +513221,7 @@ proposals-beefy.org
 proposals-beefy.xyz
 proposals-berachains.com
 proposals-blackhaven.xyz
+proposals-blast.fun
 proposals-bonk.com
 proposals-cake.com
 proposals-cascade.xyz
@@ -513563,6 +513583,7 @@ proposals-zama.icu
 proposals-zama.info
 proposals-zama.life
 proposals-zama.org
+proposals-zama.space
 proposals-zama.top
 proposals-zama.xyz
 proposals-zebec.com
@@ -564205,6 +564226,7 @@ saturn-holders.app
 saturn-holders.credit
 saturn-reward.app
 saturn-reward.credit
+saturn-rewards.app
 saturn-rewards.credit
 saturn-votes.credit
 saturn4u.com
@@ -564239,6 +564261,7 @@ saturnholders.app
 saturnholders.credit
 saturnonetwork.tech
 saturnoy.life
+saturnreward.app
 saturnreward.credit
 saturnreward.xyz
 saturnrewards.credit
@@ -568442,7 +568465,10 @@ season2-firelight.com
 season2-firelight.finance
 season2-firelight.icu
 season2-firelight.info
+season2-firelight.life
 season2-firelight.live
+season2-firelight.lol
+season2-firelight.top
 season2-firelight.xyz
 season2-flare.com
 season2-flare.foundation
@@ -576245,8 +576271,10 @@ shareearn3.com
 shareenum.app
 sharefiles.email
 shareflare.org
+shareholder-firelightfi.xyz
 shareholder-kinetiq.xyz
 shareholder-netnet.capital
+shareholders-firelightfi.xyz
 shareholders-netnet.capital
 sharelive365.com
 sharelock.win
@@ -641548,8 +641576,13 @@ tge-usdai.org
 tge-usdai.xyz
 tge-variaitonal.lat
 tge-variational.com
+tge-variational.icu
+tge-variational.ink
+tge-variational.life
 tge-variational.pro
 tge-variational.space
+tge-variational.top
+tge-variational.vip
 tge-variationalfoundation.xyz
 tge-worldshards.com
 tge-xmaquina.com
@@ -686883,6 +686916,7 @@ varational.io
 varational.mom
 varational.one
 varational.org
+varational.top
 varational.us
 varationaldex.xyz
 varbloox.com
@@ -698055,6 +698089,7 @@ voting-flarenetwork.info
 voting-flarenetwork.xyz
 voting-flarenetworks.app
 voting-flarenetworks.com
+voting-flarenetworks.icu
 voting-flarenetworks.live
 voting-flarenetworks.xyz
 voting-flr.xyz
