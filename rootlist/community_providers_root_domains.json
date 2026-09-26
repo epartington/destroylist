@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 144498,
+      "total_entries": 144511,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 74909,
+          "count": 74914,
           "hosts": [
             "00-e8k.pages.dev",
             "00000000000000000000000.pages.dev",
@@ -52195,9 +52195,11 @@
             "rainbet-casinos-com.pages.dev",
             "rainbet-com-se.pages.dev",
             "rainbet-deu-com-134595.pages.dev",
+            "rainbet-dk-eu-143189.pages.dev",
             "rainbet-es-com.pages.dev",
             "rainbet-espana-com.pages.dev",
             "rainbet-eu-de.pages.dev",
+            "rainbet-fi-org-143828.pages.dev",
             "rainbet-france-com.pages.dev",
             "rainbet-game-com.pages.dev",
             "rainbet-games-ca.pages.dev",
@@ -52208,10 +52210,13 @@
             "rainbet-itcasino-com-9ba277c4.pages.dev",
             "rainbet-login-live.pages.dev",
             "rainbet-lv-com-76112.pages.dev",
+            "rainbet-no-eu-143949.pages.dev",
+            "rainbet-nu-143917.pages.dev",
             "rainbet-online-apuestas-com.pages.dev",
             "rainbet-play-com.pages.dev",
             "rainbet-radio-fm-101987.pages.dev",
             "rainbet-registro-espana-com.pages.dev",
+            "rainbet-se-org-144003.pages.dev",
             "rainbet-sports-bet.pages.dev",
             "rainbet-sports-live.pages.dev",
             "rainbet-uk-casino-com-5026.pages.dev",
@@ -95115,13 +95120,14 @@
         },
         {
           "domain": "netlify.app",
-          "count": 10795,
+          "count": 10802,
           "hosts": [
             "0.netlify.app",
             "0g-foundiation-claim.netlify.app",
             "0kxloyaltycommunityopenhub-1ww3.netlify.app",
             "0kxloyaltycommunityopenhub-1zoe.netlify.app",
             "0kxloyaltycommunityopenhub-ka1x.netlify.app",
+            "0kxloyaltycommunityopenhub-ty71.netlify.app",
             "0kxloyaltycommunityopenhub-za9a.netlify.app",
             "0x-master-fix.netlify.app",
             "0x0claim.netlify.app",
@@ -103903,8 +103909,13 @@
             "robinhood-hy7dcf8f.netlify.app",
             "robinhood-iho64hk6.netlify.app",
             "robinhood-main-dex-atn.netlify.app",
+            "robinhood-main-dex-bhp.netlify.app",
             "robinhood-main-dex-bqw.netlify.app",
+            "robinhood-main-dex-ckp.netlify.app",
+            "robinhood-main-dex-dlr.netlify.app",
             "robinhood-main-dex-fgj.netlify.app",
+            "robinhood-main-dex-fmt.netlify.app",
+            "robinhood-main-dex-gqv.netlify.app",
             "robinhood-main-dex-hnq.netlify.app",
             "robinhood-main-dex-hwj.netlify.app",
             "robinhood-main-dex-kpw.netlify.app",
@@ -105090,6 +105101,7 @@
             "tobytoadgod.netlify.app",
             "token-asset.netlify.app",
             "token-assets.netlify.app",
+            "token-claims.netlify.app",
             "token-drop.netlify.app",
             "token-holdings.netlify.app",
             "token-relaunchv3.netlify.app",
@@ -143431,7 +143443,7 @@
         },
         {
           "domain": "herokuapp.com",
-          "count": 123,
+          "count": 124,
           "hosts": [
             "aiaai-acs-network.herokuapp.com",
             "ail-rosenheim-marion-knauf-bc9143473673.herokuapp.com",
@@ -143492,6 +143504,7 @@
             "nft-luckybox01-6e2529f3b576.herokuapp.com",
             "nodeconnectschain.herokuapp.com",
             "open-ocean-27ab6b82284c.herokuapp.com",
+            "opensea-899d66fb08be.herokuapp.com",
             "opensea-claim10-58792666174b.herokuapp.com",
             "opensea-nftbox-fc872a1c36fe.herokuapp.com",
             "opensea-nftbox10-7f989708540d.herokuapp.com",
@@ -144858,7 +144871,7 @@
     },
     "site_builders": {
       "total_domains": 39,
-      "total_entries": 68761,
+      "total_entries": 68763,
       "items": [
         {
           "domain": "gitbook.io",
@@ -206332,7 +206345,7 @@
         },
         {
           "domain": "framer.ai",
-          "count": 1257,
+          "count": 1258,
           "hosts": [
             "0000066.framer.ai",
             "access--karken--shoot.framer.ai",
@@ -206730,6 +206743,7 @@
             "en-phantm-app.framer.ai",
             "en-rabby-wallet.framer.ai",
             "en-rabbywallet.framer.ai",
+            "en-rabbyy-apps.framer.ai",
             "en-rabyy-wallet.framer.ai",
             "en-startio-trezrsio.framer.ai",
             "en-suites-usa.framer.ai",
@@ -212427,7 +212441,7 @@
         },
         {
           "domain": "framer.website",
-          "count": 235,
+          "count": 236,
           "hosts": [
             "aaavvveeronsss.framer.website",
             "acccess-rabbywalllet.framer.website",
@@ -212650,6 +212664,7 @@
             "web-metamask-home.framer.website",
             "web-procoinbase-home.framer.website",
             "webapps-laceextension.framer.website",
+            "webapps-rabbyus.framer.website",
             "webapps-rabyus-ext.framer.website",
             "webcoibase-net.framer.website",
             "webmail-earthlink-net-newmessage.framer.website",
