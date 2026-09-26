@@ -1,17 +1,12 @@
 {
   "OpenPhish": {
-    "hash": "b2cf692a5e874bada099b386a9c821586efddf8062383dad5c7b449b6725d357",
-    "count": 263,
+    "hash": "ba0682d165fff6b8a3c1acdaf5de8233c834cc04c15e3bb9ae9c6b0cc88793ee",
+    "count": 251,
     "consecutive_failures": 0
   },
   "MetaMask": {
     "hash": "d188233c0e1536270af709223b79cf7569ed08061d8ce7b9243ee2b609d419a2",
     "count": 100245,
-    "consecutive_failures": 0
-  },
-  "Codeesura": {
-    "hash": "77fd07f4fd519c4474630daa61948b84ef47e7b0adee8760138076f4150012b5",
-    "count": 53990,
     "consecutive_failures": 0
   },
   "Polkadot": {
@@ -24,9 +19,19 @@
     "count": 1450,
     "consecutive_failures": 0
   },
+  "Codeesura": {
+    "hash": "77fd07f4fd519c4474630daa61948b84ef47e7b0adee8760138076f4150012b5",
+    "count": 53990,
+    "consecutive_failures": 0
+  },
   "DiscordPhishing_Nikolai": {
     "hash": "70924f3426700d55cbe180c86a91390ee515bccbd5614fb724192e2e260ad301",
     "count": 21852,
+    "consecutive_failures": 0
+  },
+  "SEAL": {
+    "hash": "e6564d155e54243b15dc1729f7dc53173244ce056f5aec9bee8ceff6080f5d9c",
+    "count": 99610,
     "consecutive_failures": 0
   },
   "CryptoFirewall": {
@@ -34,19 +39,14 @@
     "count": 107934,
     "consecutive_failures": 0
   },
+  "Phishunt": {
+    "hash": "f9898b859a2b481fcdd3a944b0b139dbc8bbe17222fbc8ab9efd50165208649c",
+    "count": 801,
+    "consecutive_failures": 0
+  },
   "DiscordPhishing_Dogino": {
     "hash": "de5a0e8ec92d9054c3c49f750000f536e786886032255a6b6131c098c0f65250",
     "count": 37078,
-    "consecutive_failures": 0
-  },
-  "Phishunt": {
-    "hash": "56625272a9e3d8fb422cf7fce6f0bbe316d516b07353a7f2754e1e4cbea2d6da",
-    "count": 775,
-    "consecutive_failures": 0
-  },
-  "SEAL": {
-    "hash": "96385b760507839d5f2e0d626a78a29b1f820ed2f18c9d4aba000ad02d1a35b1",
-    "count": 99677,
     "consecutive_failures": 0
   },
   "Enkrypt_Blacklist": {
@@ -59,5 +59,5 @@
     "count": 354989,
     "consecutive_failures": 0
   },
-  "total_count": 1097009
+  "total_count": 1097127
 }
