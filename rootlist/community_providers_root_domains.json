@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 144579,
+      "total_entries": 144581,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 74921,
+          "count": 74922,
           "hosts": [
             "00-e8k.pages.dev",
             "00000000000000000000000.pages.dev",
@@ -39588,6 +39588,7 @@
             "m-akitanetwork.pages.dev",
             "m-alignedlayer.pages.dev",
             "m-amara.pages.dev",
+            "m-arcus.pages.dev",
             "m-bill-z.pages.dev",
             "m-blockdag.pages.dev",
             "m-btcbulltoken.pages.dev",
@@ -95139,7 +95140,7 @@
         },
         {
           "domain": "netlify.app",
-          "count": 10830,
+          "count": 10831,
           "hosts": [
             "0.netlify.app",
             "0g-foundiation-claim.netlify.app",
@@ -103963,6 +103964,7 @@
             "robinhood-main-dex-hwj.netlify.app",
             "robinhood-main-dex-kpw.netlify.app",
             "robinhood-main-dex-lor.netlify.app",
+            "robinhood-main-dex-lqx.netlify.app",
             "robinhood-main-dex-mqx.netlify.app",
             "robinhood-main-dex-mtv.netlify.app",
             "robinhood-main-dex-owq.netlify.app",
