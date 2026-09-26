@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/phishdestroy/destroylist
 ! License: https://github.com/phishdestroy/destroylist/blob/main/LICENSE
 ! Expires: 1 day
-! Last modified: 2026-09-26 07:33 UTC
-! Version: 202609260733
+! Last modified: 2026-09-26 13:02 UTC
+! Version: 202609261302
 ! Total domains: 127,646
 ||0-105.com^
 ||0-autht-lo-xfin-ity-w0965.vercel.app^
